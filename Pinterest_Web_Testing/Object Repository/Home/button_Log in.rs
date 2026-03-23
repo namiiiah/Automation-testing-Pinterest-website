@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Log in</name>
+   <tag></tag>
+   <elementGuidId>cb0c4002-ccbb-4c9a-9201-9bc161881976</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.G0yGFD.ap8aAM.Q3hcOU.gwpqhu.itmoZr.GaMK1V.O0u6sV</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-test-id=&quot;simple-login-button&quot;] >> internal:role=button[name=&quot;Log in&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e8873c45-64a7-4a03-a23b-3f738a601a64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>G0yGFD ap8aAM Q3hcOU gwpqhu itmoZr GaMK1V O0u6sV</value>
+      <webElementGuid>b04fad5b-dd45-4bbd-9a61-652256260dbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>2d323302-5cb3-43f8-a609-9c5e8f9a85d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e46395e9-e1fc-419f-a7e5-9f6874afcde8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log in</value>
+      <webElementGuid>df51d798-1011-4c9e-b867-dbb93c79013c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__PWS_ROOT__&quot;)/div[@class=&quot;ADXRXN&quot;]/header[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN bnBtRO mJ2PyB n62I2n&quot;]/nav[@class=&quot;ADXRXN BVzdUh Tjcf3c _xSIdT ecEhnF qJUqe1 sSBu24 zEVE_X&quot;]/div[@class=&quot;ADXRXN C6J6UC MEP_vB sSBu24 zEVE_X&quot;]/div[@class=&quot;ADXRXN MQHiAK&quot;]/button[@class=&quot;G0yGFD ap8aAM Q3hcOU gwpqhu itmoZr GaMK1V O0u6sV&quot;]</value>
+      <webElementGuid>92b4cde6-72be-4257-9e6e-b56ce8c7dc15</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>661e4e74-e5e6-4a92-8292-6ccdcc3096b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__PWS_ROOT__']/div/header/div/nav/div[2]/div[2]/button</value>
+      <webElementGuid>8d3a4138-f4dc-46c8-838d-bf35d0e57fcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='News'])[1]/following::button[1]</value>
+      <webElementGuid>13b58368-2de7-4d00-acc1-03695fe8f0c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create'])[1]/following::button[1]</value>
+      <webElementGuid>98f96735-8ce9-4367-99f5-e23f0af6efbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up'])[1]/preceding::button[1]</value>
+      <webElementGuid>e5365b04-c256-4ac9-9755-c3aac819aae9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>9d8cba2e-84b5-4e1d-b71f-f2e28042fb21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Log in' or . = 'Log in')]</value>
+      <webElementGuid>023ed902-b461-445c-b1c5-375e65c7d9fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

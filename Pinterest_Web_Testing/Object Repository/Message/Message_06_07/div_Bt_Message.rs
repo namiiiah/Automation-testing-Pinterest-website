@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Bt_Message</name>
+   <tag></tag>
+   <elementGuidId>dcab3c8b-4ec0-4085-aabf-d4522de1e51e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='VerticalNavContent']/div/div/div/div[7]/div/div/div/div/button/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.VHreRh.kHGn_J.XjRT60.bCyBlM</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-test-id=&quot;notifications-button&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>64595e67-7c0b-44fe-92ef-7789da0bfe0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>VHreRh kHGn_J XjRT60 bCyBlM</value>
+      <webElementGuid>4ae3cf8e-dd06-464c-8358-6582aae2a934</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;VerticalNavContent&quot;)/div[@class=&quot;ADXRXN _xSIdT&quot;]/div[@class=&quot;ADXRXN _tKaHB qJUqe1 sSBu24 zEVE_X&quot;]/div[@class=&quot;ADXRXN _tKaHB sSBu24 zEVE_X&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN gEQpi5&quot;]/div[@class=&quot;ADXRXN gEQpi5&quot;]/div[@class=&quot;ADXRXN DTsIgD&quot;]/div[@class=&quot;ADXRXN&quot;]/button[@class=&quot;euRXRl&quot;]/div[@class=&quot;dVx3J_ Q3hcOU mm_g7v&quot;]/div[@class=&quot;VHreRh kHGn_J XjRT60 bCyBlM&quot;]</value>
+      <webElementGuid>141e3bf3-ca2a-4152-89d6-97e29f453ee7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='VerticalNavContent']/div/div/div/div[7]/div/div/div/div/button/div/div</value>
+      <webElementGuid>c8eae2bb-4092-4a66-acff-4309485234e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to content'])[1]/following::div[82]</value>
+      <webElementGuid>f49507d4-084f-443a-b28f-95f183725c11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::div[12]</value>
+      <webElementGuid>65f0c17f-045b-431e-8a05-64ba8a284348</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[1]/preceding::div[13]</value>
+      <webElementGuid>d32745a4-1c89-4276-9d55-fe26305cec17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div/div/button/div/div</value>
+      <webElementGuid>07b36256-0a1a-403d-86e6-4660cfe1c0c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

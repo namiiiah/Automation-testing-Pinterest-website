@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Interests_Content</name>
+   <tag></tag>
+   <elementGuidId>2baf9c83-7da5-4339-9f15-6b90a04cedfd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.KnPdox.gEQpi5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__PWS_ROOT__']/div/div/div[3]/div/div/div/div[2]/div/div[2]/div[2]/div/div[2]/div/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;BakingRemoveDessertRemoveAnimeRemoveWritingRemoveHumorRemoveHealthRemoveSkin Car&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8ef72ba2-8636-43ec-81c3-0521bfa7be6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>KnPdox gEQpi5</value>
+      <webElementGuid>14ad1d18-e66f-48cf-8896-c5eff675c5df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>list</value>
+      <webElementGuid>cc8e08c4-f43d-4400-aeec-077cccf0f920</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BakingRemoveDessertRemoveAnimeRemoveWritingRemoveHumorRemoveHealthRemoveSkin CareRemoveHair TutorialRemoveFlowersRemoveSimple CraftsRemoveDesignRemoveInspirational QuotesRemoveWeddingsRemovePhotographyRemoveTravelRemoveBooksRemove</value>
+      <webElementGuid>005818af-b651-4409-9bf2-46376db8a0f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__PWS_ROOT__&quot;)/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;appContent&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;mainContainer&quot;]/div[@class=&quot;ADXRXN C48Khy KDGhSV Tjcf3c zEVE_X&quot;]/div[@class=&quot;ADXRXN c49R7p g0I6wi zDq_D0 PSnbKb&quot;]/div[@class=&quot;ADXRXN C48Khy _tKaHB eeaciM gbTsx5 xLeAAe zEVE_X&quot;]/div[@class=&quot;ADXRXN AywgSp C48Khy IUaGft PaBcSf ixXyxx c49R7p g0I6wi coNeet gSktR2 i1hWBD&quot;]/div[@class=&quot;H2DtUH KwViV7 FE_3R1 Tjcf3c kF2VEF qtP9fl&quot;]/div[@class=&quot;ADXRXN _tKaHB _xSIdT hVtwEZ zEVE_X&quot;]/div[@class=&quot;ADXRXN DgJbZ_ wl0pCr&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN Hv8rKq&quot;]/div[1]/div[@class=&quot;KnPdox gEQpi5&quot;]</value>
+      <webElementGuid>fdc0a9af-559a-4f41-971f-1a60b6ba19b6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__PWS_ROOT__']/div/div/div[3]/div/div/div/div[2]/div/div[2]/div[2]/div/div[2]/div/div/div[2]/div/div</value>
+      <webElementGuid>96cefae8-c662-42ae-a557-3906154db070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GenAI interests'])[1]/following::div[8]</value>
+      <webElementGuid>9b3fee4f-633d-4f7f-9c70-812569350e5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Following'])[1]/following::div[14]</value>
+      <webElementGuid>8693e4e9-253e-4c59-9a48-5a0c59c4ff88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[2]/div/div/div[2]/div/div</value>
+      <webElementGuid>83691cd4-627b-4dd8-b9cf-08a50d132a39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'BakingRemoveDessertRemoveAnimeRemoveWritingRemoveHumorRemoveHealthRemoveSkin CareRemoveHair TutorialRemoveFlowersRemoveSimple CraftsRemoveDesignRemoveInspirational QuotesRemoveWeddingsRemovePhotographyRemoveTravelRemoveBooksRemove' or . = 'BakingRemoveDessertRemoveAnimeRemoveWritingRemoveHumorRemoveHealthRemoveSkin CareRemoveHair TutorialRemoveFlowersRemoveSimple CraftsRemoveDesignRemoveInspirational QuotesRemoveWeddingsRemovePhotographyRemoveTravelRemoveBooksRemove')]</value>
+      <webElementGuid>4028f25e-bdb5-480e-a318-5aeda6b573d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

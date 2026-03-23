@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_UserChat</name>
+   <tag></tag>
+   <elementGuidId>9142f058-51e9-4212-b844-13d35bbca773</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='full-height-inbox-panel']/div/div[2]/div[4]/div/div/ul/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ADXRXN.Lo7aEl.h2QNmC.i1hWBD</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Namiiiah Namiiiah You sent a Pin 4m&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e5a7f825-88f9-42dd-8008-a9c72719bcc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ADXRXN Lo7aEl h2QNmC i1hWBD</value>
+      <webElementGuid>2e2531d5-43b0-4962-9083-7b1c4e9b3fb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NamiiiahNNamiiiahYou sent a Pin4m</value>
+      <webElementGuid>9e554baa-447b-474b-bff8-13deaa96d255</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;full-height-inbox-panel&quot;)/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN WTrvgR gSktR2&quot;]/div[@class=&quot;ADXRXN&quot;]/ul[1]/div[@class=&quot;ADXRXN _HYyJc gEQpi5 sSBu24 zEVE_X&quot;]/div[@class=&quot;Q3hcOU DodKMr O0u6sV itw4K9 g0I6wi be_g_n ap8aAM&quot;]/div[@class=&quot;ADXRXN Lo7aEl h2QNmC i1hWBD&quot;]</value>
+      <webElementGuid>dffcd5dc-c311-4979-b51b-4a92ed39a0b6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='full-height-inbox-panel']/div/div[2]/div[4]/div/div/ul/div/div/div</value>
+      <webElementGuid>029d1c9d-0d16-4405-ad9a-34fc36453239</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Messages'])[2]/following::div[6]</value>
+      <webElementGuid>7240eb50-49c2-45df-8fc2-d0b8cd668983</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New message'])[1]/following::div[9]</value>
+      <webElementGuid>3cc0156c-f7b3-4e75-8816-dbe4f93283c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/div/div/div</value>
+      <webElementGuid>ffce3905-1a47-4372-af59-fe65e9e0ec92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'NamiiiahNNamiiiahYou sent a Pin4m' or . = 'NamiiiahNNamiiiahYou sent a Pin4m')]</value>
+      <webElementGuid>b703db7b-8360-45c5-9701-44391ab7ce14</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

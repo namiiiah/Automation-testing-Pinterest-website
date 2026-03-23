@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Bt_Settings</name>
+   <tag></tag>
+   <elementGuidId>3868d962-510b-40cd-b451-9012957bba67</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.VHreRh.kHGn_J.XjRT60.bCyBlM</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='VerticalNavContent']/div/div/div[2]/div/div/div/button/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-test-id=&quot;vertical-nav-settings-button&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0743cf6e-c94b-494f-a922-b745333c095f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>VHreRh kHGn_J XjRT60 bCyBlM</value>
+      <webElementGuid>4c0a20f4-4f85-40da-8e28-e22d05a87c22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;VerticalNavContent&quot;)/div[@class=&quot;ADXRXN _xSIdT&quot;]/div[@class=&quot;ADXRXN _tKaHB qJUqe1 sSBu24 zEVE_X&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN gEQpi5&quot;]/div[@class=&quot;ADXRXN DTsIgD&quot;]/div[@class=&quot;ADXRXN&quot;]/button[@class=&quot;euRXRl&quot;]/div[@class=&quot;dVx3J_ Q3hcOU mm_g7v&quot;]/div[@class=&quot;VHreRh kHGn_J XjRT60 bCyBlM&quot;]</value>
+      <webElementGuid>ebef3f55-850a-42ce-8fda-3f08aa8ec858</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='VerticalNavContent']/div/div/div[2]/div/div/div/button/div/div</value>
+      <webElementGuid>d6a99ac8-4fa3-430d-9de1-41a9af1b1b18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to content'])[1]/following::div[90]</value>
+      <webElementGuid>b39c35ed-b23f-444d-a665-c4822ebaa7f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::div[5]</value>
+      <webElementGuid>8682fcd3-1ff9-4e25-8c67-b4a1ccc59033</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[1]/preceding::div[6]</value>
+      <webElementGuid>503542c3-687e-4717-8d2f-b63264dc2957</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/button/div/div</value>
+      <webElementGuid>0af58c78-7926-4b94-8dc2-9f55e22b83cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Delete account</name>
+   <tag></tag>
+   <elementGuidId>1848d738-7b7e-402d-8130-5faea543aa1e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__PWS_ROOT__']/div/div/div[3]/div/div/div/div[2]/div/div[2]/div[2]/div[6]/div[2]/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Delete account&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8f4cc745-26b7-4ca8-82dd-c663cc4c175b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>etmDmh i7jpet zlD4hU Q3hcOU O0u6sV RLsYhV G0yGFD ap8aAM j0pMjI hG7AI5 itmoZr</value>
+      <webElementGuid>f8f67045-7f82-4940-9c42-8ea9b08acead</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/close-account</value>
+      <webElementGuid>c217c4ea-7bb3-403e-9d67-38f0d10a447e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>ea46bc9f-684a-42a6-8716-d264ab00cd8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delete account</value>
+      <webElementGuid>515b3ac2-1c53-4246-9cd5-3fc061c44b0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__PWS_ROOT__&quot;)/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;appContent&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;mainContainer&quot;]/div[@class=&quot;ADXRXN C48Khy KDGhSV Tjcf3c zEVE_X&quot;]/div[@class=&quot;ADXRXN c49R7p g0I6wi zDq_D0 PSnbKb&quot;]/div[@class=&quot;ADXRXN C48Khy _tKaHB eeaciM gbTsx5 xLeAAe zEVE_X&quot;]/div[@class=&quot;ADXRXN AywgSp C48Khy IUaGft PaBcSf ixXyxx c49R7p g0I6wi coNeet gSktR2 i1hWBD&quot;]/div[@class=&quot;ADXRXN Emc7hI _tKaHB zEVE_X&quot;]/div[@class=&quot;ADXRXN EH8C6E&quot;]/div[@class=&quot;ADXRXN Tjcf3c k5oQr4 sSBu24 zEVE_X&quot;]/div[@class=&quot;ADXRXN C6J6UC&quot;]/a[@class=&quot;etmDmh i7jpet zlD4hU Q3hcOU O0u6sV RLsYhV G0yGFD ap8aAM j0pMjI hG7AI5 itmoZr&quot;]</value>
+      <webElementGuid>f62fc016-931e-4de1-9ecc-ad94c6351410</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__PWS_ROOT__']/div/div/div[3]/div/div/div/div[2]/div/div[2]/div[2]/div[6]/div[2]/div[2]/a</value>
+      <webElementGuid>39b7c7eb-33d7-4929-be6b-0ed3b6b80ba6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permanently delete your data and everything associated with your account'])[1]/following::a[1]</value>
+      <webElementGuid>23adecfa-e0ed-490b-a524-359a20d2447b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete your data and account'])[1]/following::a[1]</value>
+      <webElementGuid>94742946-d363-47d6-83eb-c44f28821698</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/preceding::a[1]</value>
+      <webElementGuid>78b337e0-e129-41be-9f3b-bda75fa1665d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/close-account')]</value>
+      <webElementGuid>173367b9-eb4c-45d9-a530-d05bf84e0ec5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/a</value>
+      <webElementGuid>db5dbb68-dde2-493e-a87a-ec246900c3e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/close-account' and (text() = 'Delete account' or . = 'Delete account')]</value>
+      <webElementGuid>c80cec83-485e-48a9-a386-99dfe67df42b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

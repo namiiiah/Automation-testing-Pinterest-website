@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_PinSent</name>
+   <tag></tag>
+   <elementGuidId>37cd23b8-b14d-4805-afe6-35e4a40a1fc1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='full-height-inbox-panel']/div[2]/div/div/div/div/div[6]/div/div/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.H2DtUH > div > div > div > div:nth-child(6) > div > div > div > div > div > div > div</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b0e6c82c-120c-4f19-ba81-da00b8e3ed84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>H2DtUH KwViV7 FE_3R1 Tjcf3c xdjfP5</value>
+      <webElementGuid>4967d802-5829-43d3-8489-192fde9b51ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;full-height-inbox-panel&quot;)/div[@class=&quot;ADXRXN gEQpi5 gSktR2 i1hWBD&quot;]/div[@class=&quot;H2DtUH KwViV7 FE_3R1 _tKaHB qtP9fl xdjfP5&quot;]/div[@class=&quot;ADXRXN _tKaHB drGcEU zEVE_X&quot;]/div[1]/div[@class=&quot;ADXRXN _tKaHB xdjfP5 zEVE_X&quot;]/div[@class=&quot;ADXRXN C6J6UC gEQpi5 zEVE_X&quot;]/div[@class=&quot;ADXRXN M9Ye1t _tKaHB gbTsx5 i4_mIm zEVE_X&quot;]/div[@class=&quot;H2DtUH KwViV7 FE_3R1 Tjcf3c i4_mIm xdjfP5&quot;]/div[@class=&quot;H2DtUH KwViV7 FE_3R1 Tjcf3c qtP9fl wl0pCr xdjfP5&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN gEQpi5&quot;]/div[@class=&quot;ADXRXN _tKaHB i4_mIm zEVE_X&quot;]/div[@class=&quot;H2DtUH KwViV7 FE_3R1 Tjcf3c xdjfP5&quot;]</value>
+      <webElementGuid>5b00f5d7-08bf-4639-90ff-b92807f03265</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='full-height-inbox-panel']/div[2]/div/div/div/div/div[6]/div/div/div/div/div/div/div</value>
+      <webElementGuid>8b17d2dc-6e4c-41cc-99e7-d8f57a380813</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You deleted a message'])[3]/following::div[9]</value>
+      <webElementGuid>93d65a05-5bc6-4530-8df8-97c10c0b8a6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You deleted a message'])[2]/following::div[23]</value>
+      <webElementGuid>81d89fd7-f05c-4909-9feb-02f4c5329d4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Message sent successfully'])[1]/preceding::div[40]</value>
+      <webElementGuid>5e12ded1-dce4-4220-88bc-127df217366a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[6]/div/div/div/div/div/div/div</value>
+      <webElementGuid>adb8c92f-9845-4998-865c-7cb66d3805a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AccountManagement_Content</name>
+   <tag></tag>
+   <elementGuidId>a90928ab-bf7b-43bd-b78f-25d845c9ac7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ADXRXN.AywgSp.C48Khy.IUaGft.PaBcSf.ixXyxx.c49R7p.g0I6wi.coNeet.gSktR2.i1hWBD</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__PWS_ROOT__']/div/div/div[3]/div/div/div/div[2]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Account managementMake changes to your personal information or account type.Your&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6fadfa00-dfc9-4aff-b602-0fe5c904f494</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ADXRXN AywgSp C48Khy IUaGft PaBcSf ixXyxx c49R7p g0I6wi coNeet gSktR2 i1hWBD</value>
+      <webElementGuid>b7309bb9-d732-4bb8-8441-7d5585c7f49e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Account managementMake changes to your personal information or account type.Your accountEmail • PrivateConfirmedPasswordChangeConvert to a business accountWith a business account you’ll have access to tools like ads and analytics to grow your business on Pinterest.Convert accountPersonal informationBirthdateGenderGenderMaleFemaleNon-binaryCountry/RegionLanguageAfrikaansBahasa IndonesiaBahasa MalaysiaČeštinaDanskDeutschEnglish (Australia)English (India)English (UK)English (US)Español (Américas)Español (Argentina)Español (España)Español (México)FrançaisHrvatskiItalianoMagyarNederlandsNorsk bokmålPolskiPortuguês (Brasil)Português (Europeu)RomânăSlovenčinaSuomiSvenskaTagalogTiếng ViệtTürkçeΕλληνικάБългарскиРусскийУкраїнськаעבריתالعربيةहिन्दीবাংলাతెలుగుภาษาไทย한국어日本語简体中文繁體中文Deactivation and deletionDeactivate accountTemporarily hide your profile, Pins and boardsDeactivate accountDelete your data and accountPermanently delete your data and everything associated with your accountDelete accountResetSave</value>
+      <webElementGuid>3195b34e-052f-4e46-a47c-c4dc5e4c89bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__PWS_ROOT__&quot;)/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;appContent&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;mainContainer&quot;]/div[@class=&quot;ADXRXN C48Khy KDGhSV Tjcf3c zEVE_X&quot;]/div[@class=&quot;ADXRXN c49R7p g0I6wi zDq_D0 PSnbKb&quot;]/div[@class=&quot;ADXRXN C48Khy _tKaHB eeaciM gbTsx5 xLeAAe zEVE_X&quot;]/div[@class=&quot;ADXRXN AywgSp C48Khy IUaGft PaBcSf ixXyxx c49R7p g0I6wi coNeet gSktR2 i1hWBD&quot;]</value>
+      <webElementGuid>652b274b-12b6-4b5e-8b7b-fa3f4106d528</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__PWS_ROOT__']/div/div/div[3]/div/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>70737b90-1f8a-43bb-abaf-c1e74414a441</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Branded Content'])[1]/following::div[1]</value>
+      <webElementGuid>297826a1-4bea-4c1e-a2b1-d9c8240eda83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Security'])[1]/following::div[5]</value>
+      <webElementGuid>50217dfc-f519-4b08-aba0-3618871e6f96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>dc8965fd-a7ee-4e79-a1d6-fce8ae159768</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Account managementMake changes to your personal information or account type.Your accountEmail • PrivateConfirmedPasswordChangeConvert to a business accountWith a business account you’ll have access to tools like ads and analytics to grow your business on Pinterest.Convert accountPersonal informationBirthdateGenderGenderMaleFemaleNon-binaryCountry/RegionLanguageAfrikaansBahasa IndonesiaBahasa MalaysiaČeštinaDanskDeutschEnglish (Australia)English (India)English (UK)English (US)Español (Américas)Español (Argentina)Español (España)Español (México)FrançaisHrvatskiItalianoMagyarNederlandsNorsk bokmålPolskiPortuguês (Brasil)Português (Europeu)RomânăSlovenčinaSuomiSvenskaTagalogTiếng ViệtTürkçeΕλληνικάБългарскиРусскийУкраїнськаעבריתالعربيةहिन्दीবাংলাతెలుగుภาษาไทย한국어日本語简体中文繁體中文Deactivation and deletionDeactivate accountTemporarily hide your profile, Pins and boardsDeactivate accountDelete your data and accountPermanently delete your data and everything associated with your accountDelete accountResetSave' or . = 'Account managementMake changes to your personal information or account type.Your accountEmail • PrivateConfirmedPasswordChangeConvert to a business accountWith a business account you’ll have access to tools like ads and analytics to grow your business on Pinterest.Convert accountPersonal informationBirthdateGenderGenderMaleFemaleNon-binaryCountry/RegionLanguageAfrikaansBahasa IndonesiaBahasa MalaysiaČeštinaDanskDeutschEnglish (Australia)English (India)English (UK)English (US)Español (Américas)Español (Argentina)Español (España)Español (México)FrançaisHrvatskiItalianoMagyarNederlandsNorsk bokmålPolskiPortuguês (Brasil)Português (Europeu)RomânăSlovenčinaSuomiSvenskaTagalogTiếng ViệtTürkçeΕλληνικάБългарскиРусскийУкраїнськаעבריתالعربيةहिन्दीবাংলাతెలుగుภาษาไทย한국어日本語简体中文繁體中文Deactivation and deletionDeactivate accountTemporarily hide your profile, Pins and boardsDeactivate accountDelete your data and accountPermanently delete your data and everything associated with your accountDelete accountResetSave')]</value>
+      <webElementGuid>356eb9fd-662b-4716-aa5c-3d3f03077b9b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

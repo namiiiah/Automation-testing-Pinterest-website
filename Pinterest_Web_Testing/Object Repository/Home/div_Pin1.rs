@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pin1</name>
+   <tag></tag>
+   <elementGuidId>e71caebd-8cf8-4b5d-8bf0-4c9d14c8451a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ADXRXN.NYgy1O.TfR6nu.aHn_t7.bnBtRO.mJ2PyB > div.ADXRXN.NYgy1O.TfR6nu.aHn_t7.mJ2PyB</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@role='list']//div[@data-test-id='pin'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;an anime character with long hair and bunny ears pointing to the side while holding her hand up pin page&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d25ec391-05c7-4830-85b3-cb44d7197fc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test-id</name>
+      <type>Main</type>
+      <value>pin-card-hover-overlay-gradient-full</value>
+      <webElementGuid>e4c1b739-b712-4e0f-b08c-e166f78e4313</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ADXRXN NYgy1O TfR6nu aHn_t7 mJ2PyB</value>
+      <webElementGuid>1ded8e12-cf41-4d15-ae58-a0a59d169f1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__PWS_ROOT__&quot;)/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;appContent&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;mainContainer&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;masonryContainer&quot;]/div[@class=&quot;m_t16f221222&quot;]/div[@class=&quot;ADXRXN MEP_vB XC5OnJ aNs6gM iHQedX&quot;]/div[1]/div[@class=&quot;KnPdox gEQpi5&quot;]/div[@class=&quot;V3gVHw TfR6nu v65fHc&quot;]/div[1]/div[@class=&quot;Q3hcOU DodKMr O0u6sV be_g_n ap8aAM&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN XC5OnJ gEQpi5&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN gEQpi5&quot;]/a[@class=&quot;etmDmh i7jpet zlD4hU Q3hcOU dHA5K0 O0u6sV KQwCbH be_g_n ap8aAM&quot;]/div[@class=&quot;ADXRXN MJ_eMy XC5OnJ gHrR3r&quot;]/div[@class=&quot;PinCard__imageWrapper&quot;]/div[@class=&quot;ADXRXN WTrvgR gEQpi5 gcIrSY&quot;]/div[@class=&quot;ADXRXN NYgy1O TfR6nu aHn_t7 bnBtRO mJ2PyB&quot;]/div[@class=&quot;ADXRXN NYgy1O TfR6nu aHn_t7 mJ2PyB&quot;]</value>
+      <webElementGuid>94facbe9-4d3c-4235-abc7-0d85b7b2234b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value></value>
+      <webElementGuid>623118dc-349e-4e6d-a306-40b37826f308</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value></value>
+      <webElementGuid>d5ade8bc-6f4e-48f1-b9c9-0d07ccae4985</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

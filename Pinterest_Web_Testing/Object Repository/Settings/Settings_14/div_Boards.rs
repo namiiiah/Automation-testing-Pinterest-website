@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Boards</name>
+   <tag></tag>
+   <elementGuidId>ebd7a52f-d64b-46bf-97c0-21fc1041a061</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__PWS_ROOT__']/div/div/div[3]/div/div/div/div[2]/div/div[2]/div[2]/div/div/div/div/div/a[3]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-test-id=&quot;settings-menu-items&quot;] >> internal:role=link[name=&quot;Boards&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1464742a-aab2-413b-9603-846f793e0dc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>H2DtUH opw_4g FE_3R1 Tjcf3c kF2VEF sSBu24</value>
+      <webElementGuid>db477ca0-4f50-4095-b49b-40f4d55e75a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Boards</value>
+      <webElementGuid>5e478e77-4659-4a96-9ea4-8885993b5830</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__PWS_ROOT__&quot;)/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;appContent&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;mainContainer&quot;]/div[@class=&quot;ADXRXN C48Khy KDGhSV Tjcf3c zEVE_X&quot;]/div[@class=&quot;ADXRXN c49R7p g0I6wi zDq_D0 PSnbKb&quot;]/div[@class=&quot;ADXRXN C48Khy _tKaHB eeaciM gbTsx5 xLeAAe zEVE_X&quot;]/div[@class=&quot;ADXRXN AywgSp C48Khy IUaGft PaBcSf ixXyxx c49R7p g0I6wi coNeet gSktR2 i1hWBD&quot;]/div[@class=&quot;H2DtUH KwViV7 FE_3R1 Tjcf3c kF2VEF qtP9fl&quot;]/div[@class=&quot;ADXRXN _tKaHB _xSIdT hVtwEZ zEVE_X&quot;]/div[@class=&quot;ADXRXN C6J6UC&quot;]/div[@class=&quot;H2DtUH KwViV7 FE_3R1 KDGhSV Tjcf3c qtP9fl&quot;]/div[@class=&quot;hqSJBQ&quot;]/div[@class=&quot;H2DtUH KwViV7 FE_3R1 Tjcf3c sSBu24&quot;]/a[@class=&quot;etmDmh i7jpet zlD4hU Q3hcOU gcIrSY O0u6sV hlFz_k be_g_n ap8aAM&quot;]/div[@class=&quot;H2DtUH KwViV7 FE_3R1 _tKaHB sSBu24&quot;]/div[@class=&quot;ADXRXN B3GZzn fz1RM7 gEQpi5 gcIrSY i1hWBD&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;H2DtUH opw_4g FE_3R1 Tjcf3c kF2VEF sSBu24&quot;]</value>
+      <webElementGuid>f8f0b055-08f1-46db-b2ef-3f9e597287dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__PWS_ROOT__']/div/div/div[3]/div/div/div/div[2]/div/div[2]/div[2]/div/div/div/div/div/a[3]/div/div/div/div</value>
+      <webElementGuid>74cbea71-40e9-41da-92ba-bfdf3b75a6e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Interests'])[1]/following::div[4]</value>
+      <webElementGuid>caeed492-45a7-4297-afe5-470d1e487f79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activity'])[1]/following::div[12]</value>
+      <webElementGuid>1388713d-7f92-47cd-9e5a-6653956972ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Following'])[1]/preceding::div[3]</value>
+      <webElementGuid>9a9117e8-832e-4cac-9718-7d4f82465a0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/div/div/div/div</value>
+      <webElementGuid>ca3b1f17-5981-4f0f-98e5-f5a065e23478</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Boards' or . = 'Boards')]</value>
+      <webElementGuid>4bccd5e5-512d-4aab-8e93-de587bd38bd1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

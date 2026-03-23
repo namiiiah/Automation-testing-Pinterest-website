@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_GridPin</name>
+   <tag></tag>
+   <elementGuidId>c87de93f-25bd-4bc1-82b1-d9f25166ef0d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.KnPdox.gEQpi5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@data-test-id='pin']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=list</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2e836d79-934f-4b7f-9fd1-d7b81a00a822</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>KnPdox gEQpi5</value>
+      <webElementGuid>eacbe68e-e44d-49b1-8595-7c93837018f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>list</value>
+      <webElementGuid>daccd2ca-0580-4fac-9f13-3ff0f7f8b3cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Preppy Style 2025 Quần yếm mới Áo có mũ trùm đầu phù hợp với Bộ đồ mỏng hơn Hàn Quốc Bộ đồ hai Thu Đông MặcShopee VietnamSponsoredjames</value>
+      <webElementGuid>1fbece1d-ac9a-4572-8515-09f9601841ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__PWS_ROOT__&quot;)/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;appContent&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;mainContainer&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;masonryContainer&quot;]/div[@class=&quot;m_t16f221222&quot;]/div[@class=&quot;ADXRXN MEP_vB XC5OnJ aNs6gM iHQedX&quot;]/div[1]/div[@class=&quot;KnPdox gEQpi5&quot;]</value>
+      <webElementGuid>1e9a40ef-40d9-4f8d-adff-d4cf3dbdae9c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__PWS_ROOT__']/div/div/div[3]/div/div/div/div/div/div[4]/div/div/div/div</value>
+      <webElementGuid>1e333b1c-8b7f-4f89-896d-653fe184d645</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More Pins loaded for homefeed'])[1]/following::div[5]</value>
+      <webElementGuid>f058056d-3d19-4134-8f1e-d4f2749775e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Neko choan~'])[1]/following::div[7]</value>
+      <webElementGuid>d5215ceb-e6c5-4c8b-a142-d962a042174e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div</value>
+      <webElementGuid>3f928e09-bbd2-439e-b6c2-3fdc04a22127</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Preppy Style 2025 Quần yếm mới Áo có mũ trùm đầu phù hợp với Bộ đồ mỏng hơn Hàn Quốc Bộ đồ hai Thu Đông MặcShopee VietnamSponsoredjames' or . = 'Preppy Style 2025 Quần yếm mới Áo có mũ trùm đầu phù hợp với Bộ đồ mỏng hơn Hàn Quốc Bộ đồ hai Thu Đông MặcShopee VietnamSponsoredjames')]</value>
+      <webElementGuid>a5ab4b1b-2c41-4675-a835-dd2b4b8d5a17</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

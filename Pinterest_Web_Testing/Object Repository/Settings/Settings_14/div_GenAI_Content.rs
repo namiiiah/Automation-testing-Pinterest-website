@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_GenAI_Content</name>
+   <tag></tag>
+   <elementGuidId>213a509e-11a5-4a1e-b509-f64d9ecc3ec3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ADXRXN.DgJbZ_.wl0pCr > div.ADXRXN > div.ADXRXN</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__PWS_ROOT__']/div/div/div[3]/div/div/div/div[2]/div/div[2]/div[2]/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Choose GenAI interests you’d like to see in your recommended Pins.ArchitectureAr&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0ef1e555-14e6-437e-8b5f-d7945a590d09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ADXRXN</value>
+      <webElementGuid>fe916636-7eae-4dc5-9e6e-e787c7250142</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Choose GenAI interests you’d like to see in your recommended Pins.ArchitectureArtBeautyChildren's fashionEntertainmentFood and drinksHealthHome decorMen's fashionSportWomen's fashion</value>
+      <webElementGuid>499026e1-ce4d-4d8e-98a1-4f2e0124e7fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__PWS_ROOT__&quot;)/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;appContent&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;mainContainer&quot;]/div[@class=&quot;ADXRXN C48Khy KDGhSV Tjcf3c zEVE_X&quot;]/div[@class=&quot;ADXRXN c49R7p g0I6wi zDq_D0 PSnbKb&quot;]/div[@class=&quot;ADXRXN C48Khy _tKaHB eeaciM gbTsx5 xLeAAe zEVE_X&quot;]/div[@class=&quot;ADXRXN AywgSp C48Khy IUaGft PaBcSf ixXyxx c49R7p g0I6wi coNeet gSktR2 i1hWBD&quot;]/div[@class=&quot;H2DtUH KwViV7 FE_3R1 Tjcf3c kF2VEF qtP9fl&quot;]/div[@class=&quot;ADXRXN _tKaHB _xSIdT hVtwEZ zEVE_X&quot;]/div[@class=&quot;ADXRXN DgJbZ_ wl0pCr&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]</value>
+      <webElementGuid>1516f96d-1f1a-4ddd-b391-805436910bdd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__PWS_ROOT__']/div/div/div[3]/div/div/div/div[2]/div/div[2]/div[2]/div/div[2]/div/div</value>
+      <webElementGuid>942a6cfd-05ff-4c09-9ff9-ea1e95b48bbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GenAI interests'])[1]/following::div[5]</value>
+      <webElementGuid>ebb9b3aa-f3c1-486c-89f1-a10900f5ce90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Following'])[1]/following::div[11]</value>
+      <webElementGuid>f6d0d710-1700-437c-8835-c7326e8ca50c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[2]/div/div</value>
+      <webElementGuid>7ecac202-39b1-4f4a-a7db-e5bb089885e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Choose GenAI interests you’d like to see in your recommended Pins.ArchitectureArtBeautyChildren&quot; , &quot;'&quot; , &quot;s fashionEntertainmentFood and drinksHealthHome decorMen&quot; , &quot;'&quot; , &quot;s fashionSportWomen&quot; , &quot;'&quot; , &quot;s fashion&quot;) or . = concat(&quot;Choose GenAI interests you’d like to see in your recommended Pins.ArchitectureArtBeautyChildren&quot; , &quot;'&quot; , &quot;s fashionEntertainmentFood and drinksHealthHome decorMen&quot; , &quot;'&quot; , &quot;s fashionSportWomen&quot; , &quot;'&quot; , &quot;s fashion&quot;))]</value>
+      <webElementGuid>6b6e54d7-842f-4355-aae8-540626d79b01</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

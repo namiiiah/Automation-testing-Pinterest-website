@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_meow</name>
+   <tag></tag>
+   <elementGuidId>e0950d26-9fe6-4a02-a02d-e98ea589289a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ADXRXN.B3GZzn.TFmI8_.sSBu24.wl0pCr.zEVE_X</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;meow Remove recent search&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>be530498-1f18-4f1c-b61a-b3a395416882</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ADXRXN B3GZzn TFmI8_ sSBu24 wl0pCr zEVE_X</value>
+      <webElementGuid>dd868141-2306-4a61-98b9-455e275ddf1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>meow</value>
+      <webElementGuid>e1b91049-7579-4487-bbd3-cbe3d49f39f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SuggestionsMenu&quot;)/div[1]/div[@class=&quot;ADXRXN WTrvgR _tKaHB ecEhnF zEVE_X&quot;]/div[@class=&quot;ADXRXN AsRsEE b1kQbg&quot;]/div[@class=&quot;H2DtUH am4r_S bhb3s6 _tKaHB&quot;]/div[@class=&quot;oRZ5_s&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;e2jAjp gcIrSY N9tO7e&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN gEQpi5&quot;]/div[@class=&quot;ADXRXN&quot;]/a[@class=&quot;etmDmh i7jpet zlD4hU Q3hcOU gcIrSY O0u6sV KQwCbH itw4K9 g0I6wi be_g_n ap8aAM&quot;]/div[@class=&quot;H2DtUH KwViV7 FE_3R1 Tjcf3c&quot;]/div[@class=&quot;ADXRXN B3GZzn TFmI8_ sSBu24 wl0pCr zEVE_X&quot;]</value>
+      <webElementGuid>d18d2310-1130-43bf-b512-faf0b9c0890d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='SuggestionsMenu']/div/div/div/div/div[2]/div/div/div/div/div/div/div/a/div/div[2]</value>
+      <webElementGuid>c042387b-8f01-461c-9746-ae694bc21a1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recent searches'])[1]/following::div[14]</value>
+      <webElementGuid>ed34fe6a-42bf-4309-bc45-1cc7c8ae403d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to content'])[1]/following::div[36]</value>
+      <webElementGuid>4fcbfdc8-c656-426f-bf1e-dad359f1f31d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='meowi'])[1]/preceding::div[14]</value>
+      <webElementGuid>dcf76962-42db-4dce-bb71-2199c5e2a7ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div[2]</value>
+      <webElementGuid>51d7965d-d252-4ece-bd4e-1f9c0d8f7b0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'meow' or . = 'meow')]</value>
+      <webElementGuid>4c0bef07-95f0-4f0e-a1a4-9f04999ba3ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

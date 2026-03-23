@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Bt_Home</name>
+   <tag></tag>
+   <elementGuidId>f10f6f7f-5b37-467a-9fc5-2b129d42f5ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.VHreRh.kHGn_J.XjRT60.bCyBlM</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='VerticalNavContent']/div/div/div/div/div/div/div/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-test-id=&quot;pinterest-logo-home-button&quot;] >> internal:role=link[name=&quot;Home&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>04476bf4-a6a6-4200-8976-097541966696</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>VHreRh kHGn_J XjRT60 bCyBlM</value>
+      <webElementGuid>86486c40-d8bf-4476-ac95-390721ad5733</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;VerticalNavContent&quot;)/div[@class=&quot;ADXRXN _xSIdT&quot;]/div[@class=&quot;ADXRXN _tKaHB qJUqe1 sSBu24 zEVE_X&quot;]/div[@class=&quot;ADXRXN _tKaHB sSBu24 zEVE_X&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN DTsIgD&quot;]/div[@class=&quot;ADXRXN&quot;]/a[@class=&quot;etmDmh i7jpet zlD4hU Q3hcOU O0u6sV dVx3J_ mm_g7v&quot;]/div[@class=&quot;VHreRh kHGn_J XjRT60 bCyBlM&quot;]</value>
+      <webElementGuid>8a35ec2a-1414-4354-8f33-5c11fa76ec5f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='VerticalNavContent']/div/div/div/div/div/div/div/a/div</value>
+      <webElementGuid>0984290c-959a-4d06-b52e-bad375eface8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to content'])[1]/following::div[40]</value>
+      <webElementGuid>4c1ebc45-220b-40ad-a0b0-f469cd6177be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::div[51]</value>
+      <webElementGuid>07cdcf2b-e2c2-4c0a-9cb5-fefdb5c7bf50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[1]/preceding::div[52]</value>
+      <webElementGuid>085fb3ea-ad56-4e88-8dbc-82992ecea1cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div/div/div/div/div/div/div/a/div</value>
+      <webElementGuid>e154a80b-43cc-4d45-ae70-de874396f415</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Following_Content</name>
+   <tag></tag>
+   <elementGuidId>06418d54-2d45-4e7a-9691-5d700a416da5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ADXRXN.DgJbZ_.wl0pCr > div.ADXRXN</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__PWS_ROOT__']/div/div/div[3]/div/div/div/div[2]/div/div[2]/div[2]/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(2) > div:nth-child(2) > div > div:nth-child(2) > div</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1779052c-9021-46e5-a73b-10575f7a1ff4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ADXRXN</value>
+      <webElementGuid>c35042e2-bd79-4c53-8556-afade1f7c88f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Unfollow a person or brand to stop seeing their published Pins. They won’t be notified.Anita Mie1 followerFollowingfixit3.2k followersFollowingValentine | Beauty Tips9.3k followersFollowingErin235.8k followersFollowingpatooti3469 followersFollowingCherrycosmos ✨173 followersFollowingStevensonSStevenson334 followersFollowing𝒮.13.2k followersFollowing庭庭65k followersFollowingBuzzFeed6.1m followersFollowingCheezburger2.2m followersFollowing9GAG3.9m followersFollowing</value>
+      <webElementGuid>ef82c437-c16e-4dff-8c20-376b769cd9b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__PWS_ROOT__&quot;)/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;appContent&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;mainContainer&quot;]/div[@class=&quot;ADXRXN C48Khy KDGhSV Tjcf3c zEVE_X&quot;]/div[@class=&quot;ADXRXN c49R7p g0I6wi zDq_D0 PSnbKb&quot;]/div[@class=&quot;ADXRXN C48Khy _tKaHB eeaciM gbTsx5 xLeAAe zEVE_X&quot;]/div[@class=&quot;ADXRXN AywgSp C48Khy IUaGft PaBcSf ixXyxx c49R7p g0I6wi coNeet gSktR2 i1hWBD&quot;]/div[@class=&quot;H2DtUH KwViV7 FE_3R1 Tjcf3c kF2VEF qtP9fl&quot;]/div[@class=&quot;ADXRXN _tKaHB _xSIdT hVtwEZ zEVE_X&quot;]/div[@class=&quot;ADXRXN DgJbZ_ wl0pCr&quot;]/div[@class=&quot;ADXRXN&quot;]</value>
+      <webElementGuid>cc4f37b2-9800-47f6-b9a9-40be507da00d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__PWS_ROOT__']/div/div/div[3]/div/div/div/div[2]/div/div[2]/div[2]/div/div[2]/div</value>
+      <webElementGuid>6bd17a7b-4f40-4999-b9df-9664ef516e88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GenAI interests'])[1]/following::div[2]</value>
+      <webElementGuid>afbbdb06-e795-4a6e-be66-3b20eba0774b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Following'])[1]/following::div[10]</value>
+      <webElementGuid>df361cc7-05cb-42b5-a7ed-7f98d882d568</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[2]/div</value>
+      <webElementGuid>c838c1f3-46f6-4824-902e-08fa454d094c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Unfollow a person or brand to stop seeing their published Pins. They won’t be notified.Anita Mie1 followerFollowingfixit3.2k followersFollowingValentine | Beauty Tips9.3k followersFollowingErin235.8k followersFollowingpatooti3469 followersFollowingCherrycosmos ✨173 followersFollowingStevensonSStevenson334 followersFollowing𝒮.13.2k followersFollowing庭庭65k followersFollowingBuzzFeed6.1m followersFollowingCheezburger2.2m followersFollowing9GAG3.9m followersFollowing' or . = 'Unfollow a person or brand to stop seeing their published Pins. They won’t be notified.Anita Mie1 followerFollowingfixit3.2k followersFollowingValentine | Beauty Tips9.3k followersFollowingErin235.8k followersFollowingpatooti3469 followersFollowingCherrycosmos ✨173 followersFollowingStevensonSStevenson334 followersFollowing𝒮.13.2k followersFollowing庭庭65k followersFollowingBuzzFeed6.1m followersFollowingCheezburger2.2m followersFollowing9GAG3.9m followersFollowing')]</value>
+      <webElementGuid>a83bb83c-7b02-4b69-9aa4-c2189336251c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

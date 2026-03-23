@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Quên mật khẩu (invalid email)</description>
+   <name>TC_Login_10</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>34cc0b5f-66d3-4448-afec-645efb92962a</testCaseGuid>
+</TestCaseEntity>

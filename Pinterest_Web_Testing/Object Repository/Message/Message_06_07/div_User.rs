@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_User</name>
+   <tag></tag>
+   <elementGuidId>19a34fd3-fa1f-4878-8e4c-4c9e8b5d8e01</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='full-height-inbox-panel']/div/section/div[3]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ADXRXN.gSktR2.gcIrSY.h2QNmC.i1hWBD.sSBu24.zEVE_X</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=checkbox[name=&quot;Namiiiah @namiiiah0905&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f4294cdd-bde4-4516-bc80-0ef3b7e3027a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ADXRXN gSktR2 gcIrSY h2QNmC i1hWBD sSBu24 zEVE_X</value>
+      <webElementGuid>5c229b83-990f-4bba-9ade-0a4c07fa9447</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> NNamiiiah@namiiiah0905</value>
+      <webElementGuid>8c385e97-0991-43f0-8ced-a5cecca7eb97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;full-height-inbox-panel&quot;)/div[@class=&quot;ADXRXN&quot;]/section[@class=&quot;ADXRXN gSktR2 i1hWBD&quot;]/div[@class=&quot;ADXRXN FqjzhQ i1hWBD q_lkxg&quot;]/div[@class=&quot;Q3hcOU DodKMr O0u6sV itw4K9 g0I6wi be_g_n ap8aAM&quot;]/div[@class=&quot;ADXRXN gSktR2 gcIrSY h2QNmC i1hWBD sSBu24 zEVE_X&quot;]</value>
+      <webElementGuid>5fa17f6f-6658-4454-9546-c0ee3f0a753e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='full-height-inbox-panel']/div/section/div[3]/div[2]/div</value>
+      <webElementGuid>21d10058-d771-46cc-8c95-05ca8c5bd662</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Suggested'])[1]/following::div[3]</value>
+      <webElementGuid>f2287e2a-cd7d-48bf-8fe7-8c949d9d85de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::div[12]</value>
+      <webElementGuid>7079d95d-9527-4255-aca9-67a925a85dbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div[3]/div[2]/div</value>
+      <webElementGuid>66830b61-7d71-40e4-93ce-00b88a1fe100</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' NNamiiiah@namiiiah0905' or . = ' NNamiiiah@namiiiah0905')]</value>
+      <webElementGuid>6ec7ae7f-0e83-4a64-be15-397df1383e3d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

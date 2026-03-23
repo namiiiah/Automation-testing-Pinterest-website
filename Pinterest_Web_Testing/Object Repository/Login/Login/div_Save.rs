@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Save</name>
+   <tag></tag>
+   <elementGuidId>a3289caa-58f1-426d-a64c-7606629bc785</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.lIkAnG.eMU5i5.YfEt3H.o5UlW_.hL1e7w</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__PWS_ROOT__']/div/div/div[3]/div/div/div/div/div/div[4]/div/div/div/div/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[2]/button/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-test-id=&quot;PinBetterSaveButton&quot;] >> internal:label=&quot;Save&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8013335c-5422-4a78-88ee-367f708867e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lIkAnG eMU5i5 YfEt3H o5UlW_ hL1e7w</value>
+      <webElementGuid>e23c87d9-667c-466b-9943-ce82bc92942c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save</value>
+      <webElementGuid>4989a2c0-d389-4cb9-9657-7179123cb24c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__PWS_ROOT__&quot;)/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;appContent&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;mainContainer&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;masonryContainer&quot;]/div[@class=&quot;m_t16f221222&quot;]/div[@class=&quot;ADXRXN MEP_vB XC5OnJ aNs6gM iHQedX&quot;]/div[1]/div[@class=&quot;KnPdox gEQpi5&quot;]/div[@class=&quot;V3gVHw TfR6nu v65fHc&quot;]/div[1]/div[@class=&quot;Q3hcOU DodKMr O0u6sV be_g_n ap8aAM&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN XC5OnJ gEQpi5&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN gEQpi5&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN NYgy1O TfR6nu aHn_t7 bnBtRO mJ2PyB&quot;]/div[@class=&quot;ADXRXN EH8C6E Ip8hrQ saDmEv zEVE_X zi0MV2&quot;]/div[@class=&quot;ADXRXN MEP_vB wl0pCr&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN sSBu24 zEVE_X&quot;]/div[@class=&quot;ADXRXN C6J6UC MEP_vB WkuYsj&quot;]/button[@class=&quot;fsprMd _W0I5h O0u6sV&quot;]/div[@class=&quot;dBMCN4 jShAKf iS__OQ RABojg _W0I5h yVbCXY UOJS4b y4A0gb ap8aAM O0u6sV&quot;]/div[@class=&quot;H2DtUH B_eyYB FE_3R1 Tjcf3c kF2VEF sSBu24&quot;]/div[@class=&quot;oRZ5_s&quot;]/div[@class=&quot;lIkAnG eMU5i5 YfEt3H o5UlW_ hL1e7w&quot;]</value>
+      <webElementGuid>91aeb978-3ae2-4240-8894-275bac9004f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__PWS_ROOT__']/div/div/div[3]/div/div/div/div/div/div[4]/div/div/div/div/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[2]/button/div/div/div/div</value>
+      <webElementGuid>b8cc4921-d2ea-4fde-a380-a22b8566a952</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ava'])[1]/following::div[6]</value>
+      <webElementGuid>84bcc803-0a12-4cd9-8d10-d5d0dc09c4f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='james/CORTIS'])[1]/following::div[46]</value>
+      <webElementGuid>7bab8b41-1a9b-434f-bcce-d3ab62151a04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cortis James'])[1]/preceding::div[74]</value>
+      <webElementGuid>5e1e075a-c3ea-4ba0-9d69-729f7c5e0ef8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ay (CN) Vòng Cổ Zircon Nơ Trái Tim Đơn Giản Cho Nữ Mặt Dây Chuyền Pha Lê Choker Phụ Kiện Trang Sức'])[1]/preceding::div[114]</value>
+      <webElementGuid>b807f932-92ed-4eff-8769-f548891ce8a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Save']/parent::*</value>
+      <webElementGuid>08c16135-4532-4ea9-b7f6-fba6585da92c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/div/div/div</value>
+      <webElementGuid>2f4d9b38-1181-4159-aaba-12da685fdd1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Save' or . = 'Save')]</value>
+      <webElementGuid>273fbc05-ccf2-4cb5-99e8-d6fd67b42952</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

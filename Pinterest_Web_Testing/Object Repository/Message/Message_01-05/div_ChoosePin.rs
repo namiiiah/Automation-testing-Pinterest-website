@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ChoosePin</name>
+   <tag></tag>
+   <elementGuidId>3a7aadb2-1f6b-4aa2-83d4-4164211bbe41</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='full-height-inbox-panel']/div[3]/div/div/div/div/button/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.VHreRh.cLlqFI.eRZH0Z.bCyBlM</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-test-id=&quot;add-pin-to-conversation&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>81c067d9-9bb8-4eeb-a346-b0c43fb46d75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>VHreRh cLlqFI eRZH0Z bCyBlM</value>
+      <webElementGuid>5e91c269-568c-4679-b59e-d21ed8be2c82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;full-height-inbox-panel&quot;)/div[@class=&quot;ADXRXN NYgy1O TfR6nu&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN gEQpi5&quot;]/div[@class=&quot;ADXRXN BVzdUh KJ5NRA _xSIdT ecEhnF i4_mIm zEVE_X&quot;]/div[@class=&quot;ADXRXN C6J6UC SmoSiT dYCnN0&quot;]/button[@class=&quot;euRXRl&quot;]/div[@class=&quot;dVx3J_ Q3hcOU mm_g7v&quot;]/div[@class=&quot;VHreRh cLlqFI eRZH0Z bCyBlM&quot;]</value>
+      <webElementGuid>3c941809-7c5d-4ea0-b1d2-bea37508d204</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='full-height-inbox-panel']/div[3]/div/div/div/div/button/div/div</value>
+      <webElementGuid>59e1e40a-c87b-4c3f-9fdb-b45a73ef4672</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You deleted a message'])[3]/following::div[8]</value>
+      <webElementGuid>7fd1104b-1e9a-4a11-a013-d8696ee65de8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You deleted a message'])[2]/following::div[22]</value>
+      <webElementGuid>0e541ab0-2f9b-4d29-a94f-d572910088f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/button/div/div</value>
+      <webElementGuid>e82701eb-94c0-48b0-99cb-3635377b4f05</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Delete_Confirm</name>
+   <tag></tag>
+   <elementGuidId>5f4a6b47-3552-458a-ba54-838a97c69db3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ADXRXN.MEP_vB.RZKOJ9.aNs6gM.bx1iJI.gHrR3r</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__PWS_ROOT__']/div/div/div[3]/div/div/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-test-id=&quot;close-account-page&quot;] div >> internal:has-text=&quot;Delete your accountDeleting your account means you won't be able to get your Pin&quot;i >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8ebab67d-d993-40b4-9587-2de040cee8b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ADXRXN MEP_vB RZKOJ9 aNs6gM bx1iJI gHrR3r</value>
+      <webElementGuid>a3527e81-fbcc-4266-83d8-4f307cccca6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delete your accountDeleting your account means you won't be able to get your Pins or boards back. All your Pinterest account data will be deleted!1 2!1, if you're ready to leave forever, we'll send you an email with the final step to:nhitam0905@gmail.comContinue</value>
+      <webElementGuid>fcd3f739-4c54-40d8-969f-ea5fb4a68570</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__PWS_ROOT__&quot;)/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;appContent&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;mainContainer&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN TFmI8_ gSktR2&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN MEP_vB RZKOJ9 aNs6gM bx1iJI gHrR3r&quot;]</value>
+      <webElementGuid>736cb754-d180-4dd8-a33e-b2843f4de15f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__PWS_ROOT__']/div/div/div[3]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>84a624a0-8787-4042-87bb-fa155a77dfbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to content'])[1]/following::div[105]</value>
+      <webElementGuid>3f69ac13-7eb4-4543-bc27-dd8e8b1fadf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>f9338b85-b115-4a83-95c9-8d02654e288a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Delete your accountDeleting your account means you won&quot; , &quot;'&quot; , &quot;t be able to get your Pins or boards back. All your Pinterest account data will be deleted!1 2!1, if you&quot; , &quot;'&quot; , &quot;re ready to leave forever, we&quot; , &quot;'&quot; , &quot;ll send you an email with the final step to:nhitam0905@gmail.comContinue&quot;) or . = concat(&quot;Delete your accountDeleting your account means you won&quot; , &quot;'&quot; , &quot;t be able to get your Pins or boards back. All your Pinterest account data will be deleted!1 2!1, if you&quot; , &quot;'&quot; , &quot;re ready to leave forever, we&quot; , &quot;'&quot; , &quot;ll send you an email with the final step to:nhitam0905@gmail.comContinue&quot;))]</value>
+      <webElementGuid>d6bc1d71-b2cc-4a76-adcf-d3e64dd59764</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

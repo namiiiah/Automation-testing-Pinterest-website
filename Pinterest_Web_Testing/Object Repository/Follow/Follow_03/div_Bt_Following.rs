@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Bt_Following</name>
+   <tag></tag>
+   <elementGuidId>59baf43c-3c8e-46a5-800c-8f4d3d64c1b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.dBMCN4.jShAKf.iS__OQ.RABojg._W0I5h.UOJS4b.y4A0gb.ap8aAM.nlT4h6.O0u6sV</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__PWS_ROOT__']/div/div/div[3]/div/div/div/div/div/div/div/div[4]/div/div/div[2]/div/div[2]/div/div/button/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Following&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f2bdc783-40ac-44e2-8d76-ead9f1809d3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dBMCN4 jShAKf iS__OQ RABojg _W0I5h UOJS4b y4A0gb ap8aAM nlT4h6 O0u6sV</value>
+      <webElementGuid>78a4ba8d-7a10-4d60-8310-db259c430d22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Following</value>
+      <webElementGuid>649cea0d-d032-4451-9aa5-140233facb2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__PWS_ROOT__&quot;)/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;appContent&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;mainContainer&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN SKA4an kF2VEF zEVE_X&quot;]/div[@class=&quot;ADXRXN EH8C6E&quot;]/div[@class=&quot;H2DtUH KwViV7 z6WAHi _tKaHB kF2VEF sSBu24&quot;]/div[@class=&quot;oRZ5_s&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;H2DtUH jc60H4 FE_3R1 Tjcf3c&quot;]/div[@class=&quot;oRZ5_s&quot;]/div[@class=&quot;H2DtUH c1Gamg FE_3R1 KDGhSV Tjcf3c sSBu24&quot;]/div[@class=&quot;oRZ5_s&quot;]/div[@class=&quot;ADXRXN gEQpi5 zEVE_X&quot;]/div[@class=&quot;ADXRXN&quot;]/button[@class=&quot;fsprMd _W0I5h O0u6sV&quot;]/div[@class=&quot;dBMCN4 jShAKf iS__OQ RABojg _W0I5h UOJS4b y4A0gb ap8aAM nlT4h6 O0u6sV&quot;]</value>
+      <webElementGuid>d90d230c-fa86-4edb-a7da-e1c92d9143c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__PWS_ROOT__']/div/div/div[3]/div/div/div/div/div/div/div/div[4]/div/div/div[2]/div/div[2]/div/div/button/div</value>
+      <webElementGuid>9325802d-c006-4344-a682-e0c104f8cd79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Message'])[1]/following::div[4]</value>
+      <webElementGuid>a077014e-ddca-47c7-a4ef-5f6bfc396c21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='·'])[1]/following::div[21]</value>
+      <webElementGuid>24847c7c-d203-4e54-a18d-1b6a27e8e1b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created'])[1]/preceding::div[11]</value>
+      <webElementGuid>65c71f06-c909-4bf8-90bc-ff6f5bd6b822</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button/div</value>
+      <webElementGuid>92d89701-18da-4771-81c9-d518e30f03a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Following' or . = 'Following')]</value>
+      <webElementGuid>1017857a-5b9a-4335-a2e9-2c3f8d42e01a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

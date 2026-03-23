@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>nav_SettingsMenu</name>
+   <tag></tag>
+   <elementGuidId>f99627d7-3a34-40d1-8311-3c8aa3d5caea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ADXRXN.c49R7p.g0I6wi.xIYl9O.GMcNoQ > nav.ADXRXN._tKaHB.zEVE_X</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__PWS_ROOT__']/div/div/div[3]/div/div/div/div[2]/div/div/nav</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-test-id=&quot;settings-menu&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>nav</value>
+      <webElementGuid>ab2f0fcb-4819-4428-84fa-c6a8944e29f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>User settings menu&quot;</value>
+      <webElementGuid>5c54e600-d8df-4309-8401-af9a739279d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test-id</name>
+      <type>Main</type>
+      <value>settings-menu</value>
+      <webElementGuid>23caa827-651b-4301-b3f8-20e54ed48f21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>navigation</value>
+      <webElementGuid>bf511ad5-a518-407d-9d0f-dda2b177c7a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ADXRXN _tKaHB zEVE_X</value>
+      <webElementGuid>736e3165-e2b5-478e-b4b8-a0bcc0c0f9dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit profileAccount managementProfile visibilityRefine your recommendationsLink to PinterestSocial permissionsNotificationsPrivacy and dataSecurityBranded Content</value>
+      <webElementGuid>c59cc7f8-e8cd-4396-843a-d8bbda3016b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__PWS_ROOT__&quot;)/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;appContent&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;mainContainer&quot;]/div[@class=&quot;ADXRXN C48Khy KDGhSV Tjcf3c zEVE_X&quot;]/div[@class=&quot;ADXRXN c49R7p g0I6wi zDq_D0 PSnbKb&quot;]/div[@class=&quot;ADXRXN C48Khy _tKaHB eeaciM gbTsx5 xLeAAe zEVE_X&quot;]/div[@class=&quot;ADXRXN c49R7p g0I6wi xIYl9O GMcNoQ&quot;]/nav[@class=&quot;ADXRXN _tKaHB zEVE_X&quot;]</value>
+      <webElementGuid>a950c481-47e5-4bd5-9211-b3e6630ec484</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__PWS_ROOT__']/div/div/div[3]/div/div/div/div[2]/div/div/nav</value>
+      <webElementGuid>9cc6ed1b-c2f9-45a7-ba00-a490979f7005</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to content'])[1]/following::nav[2]</value>
+      <webElementGuid>a35d3d7e-77c1-4f30-9ad3-264c572a2868</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/nav</value>
+      <webElementGuid>339932f9-b35c-4fd8-bf5e-dbaa1b686049</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//nav[(text() = 'Edit profileAccount managementProfile visibilityRefine your recommendationsLink to PinterestSocial permissionsNotificationsPrivacy and dataSecurityBranded Content' or . = 'Edit profileAccount managementProfile visibilityRefine your recommendationsLink to PinterestSocial permissionsNotificationsPrivacy and dataSecurityBranded Content')]</value>
+      <webElementGuid>fe3002f8-a0c4-4636-9818-da96e2b2a393</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Notifications_Content</name>
+   <tag></tag>
+   <elementGuidId>153608d8-e70a-4280-9553-17e7992f4742</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ADXRXN.AywgSp.C48Khy.IUaGft.PaBcSf.ixXyxx.c49R7p.g0I6wi.coNeet.gSktR2.i1hWBD</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__PWS_ROOT__']/div/div/div[3]/div/div/div/div[2]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-test-id=&quot;accountSettingsContainer&quot;] div >> internal:has-text=&quot;NotificationsWe'll always let you know about important changes, but you pick wha&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4e95bd18-f954-4220-98f1-faeb63b0df7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ADXRXN AywgSp C48Khy IUaGft PaBcSf ixXyxx c49R7p g0I6wi coNeet gSktR2 i1hWBD</value>
+      <webElementGuid>f4bf8dcd-e83f-46fb-88ba-9bdacdde81f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NotificationsWe'll always let you know about important changes, but you pick what else you want to hear about. Learn morePins you publishedCommentsPush on, in-app onReactionsPush on, in-app onSavesPush onViews and impressionsPush on, in-app onCollagesPush onPins you savedCommentsPush on, in-app onMentionsPush on, in-app onRemindersPush on, in-app onComments with photosPush on, in-app onActivity from creatorsNew Pins from creators you followPush on, in-app onNew Pins from creators you might likePush on, in-app onBoards and searchesBoards you might likePush on, email on, in-app onSearches you might likePush on, email on, in-app onPin PicksPins inspired by your recent activityPush on, email on, in-app onPins picked for youPush on, email on, in-app onPopular PinsPush on, email on, in-app onSocialGroup board updatesPush on, email on, in-app onGroup board invitesPush onMessagesPush on, email on, in-app onShoppingPrice dropsPush on, email on, in-app onOthersPinterest announcementsEmail onSurveys and quizzesEmail onReports and violations center updatesEmail onActivity on ShufflesEmail onHow you get notificationsTurn on or off all notificationsResetSave</value>
+      <webElementGuid>a3fb1381-ef94-455e-a100-f4e44787dc38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__PWS_ROOT__&quot;)/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;appContent&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;mainContainer&quot;]/div[@class=&quot;ADXRXN C48Khy KDGhSV Tjcf3c zEVE_X&quot;]/div[@class=&quot;ADXRXN c49R7p g0I6wi zDq_D0 PSnbKb&quot;]/div[@class=&quot;ADXRXN C48Khy _tKaHB eeaciM gbTsx5 xLeAAe zEVE_X&quot;]/div[@class=&quot;ADXRXN AywgSp C48Khy IUaGft PaBcSf ixXyxx c49R7p g0I6wi coNeet gSktR2 i1hWBD&quot;]</value>
+      <webElementGuid>3db04cbe-057d-43c8-991f-844a4316c623</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__PWS_ROOT__']/div/div/div[3]/div/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>8f443b05-0e54-4ef2-b86c-306683304454</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Branded Content'])[1]/following::div[1]</value>
+      <webElementGuid>77d9a56e-c1b5-4a6c-ab71-3254842acef8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Security'])[1]/following::div[5]</value>
+      <webElementGuid>e64277f6-f238-4b35-857d-fdb86d084749</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>6d6759ba-4419-4339-bab3-471f5511a47c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;NotificationsWe&quot; , &quot;'&quot; , &quot;ll always let you know about important changes, but you pick what else you want to hear about. Learn morePins you publishedCommentsPush on, in-app onReactionsPush on, in-app onSavesPush onViews and impressionsPush on, in-app onCollagesPush onPins you savedCommentsPush on, in-app onMentionsPush on, in-app onRemindersPush on, in-app onComments with photosPush on, in-app onActivity from creatorsNew Pins from creators you followPush on, in-app onNew Pins from creators you might likePush on, in-app onBoards and searchesBoards you might likePush on, email on, in-app onSearches you might likePush on, email on, in-app onPin PicksPins inspired by your recent activityPush on, email on, in-app onPins picked for youPush on, email on, in-app onPopular PinsPush on, email on, in-app onSocialGroup board updatesPush on, email on, in-app onGroup board invitesPush onMessagesPush on, email on, in-app onShoppingPrice dropsPush on, email on, in-app onOthersPinterest announcementsEmail onSurveys and quizzesEmail onReports and violations center updatesEmail onActivity on ShufflesEmail onHow you get notificationsTurn on or off all notificationsResetSave&quot;) or . = concat(&quot;NotificationsWe&quot; , &quot;'&quot; , &quot;ll always let you know about important changes, but you pick what else you want to hear about. Learn morePins you publishedCommentsPush on, in-app onReactionsPush on, in-app onSavesPush onViews and impressionsPush on, in-app onCollagesPush onPins you savedCommentsPush on, in-app onMentionsPush on, in-app onRemindersPush on, in-app onComments with photosPush on, in-app onActivity from creatorsNew Pins from creators you followPush on, in-app onNew Pins from creators you might likePush on, in-app onBoards and searchesBoards you might likePush on, email on, in-app onSearches you might likePush on, email on, in-app onPin PicksPins inspired by your recent activityPush on, email on, in-app onPins picked for youPush on, email on, in-app onPopular PinsPush on, email on, in-app onSocialGroup board updatesPush on, email on, in-app onGroup board invitesPush onMessagesPush on, email on, in-app onShoppingPrice dropsPush on, email on, in-app onOthersPinterest announcementsEmail onSurveys and quizzesEmail onReports and violations center updatesEmail onActivity on ShufflesEmail onHow you get notificationsTurn on or off all notificationsResetSave&quot;))]</value>
+      <webElementGuid>39a9e049-a3b8-4ac6-bc18-7029499c006a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

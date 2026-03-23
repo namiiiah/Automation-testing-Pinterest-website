@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Interests</name>
+   <tag></tag>
+   <elementGuidId>94a3ce3c-b17a-4c2c-b297-7f66781d0447</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__PWS_ROOT__']/div/div/div[3]/div/div/div/div[2]/div/div[2]/div[2]/div/div/div/div/div/a[2]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Interests&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>96a61501-a83c-4bf0-b865-bf257c2e0936</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>H2DtUH opw_4g FE_3R1 Tjcf3c kF2VEF sSBu24</value>
+      <webElementGuid>28540e25-4355-4667-900f-b412edcbc1f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Interests</value>
+      <webElementGuid>ec570ddb-9ded-4d11-b807-8807a6923ad0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__PWS_ROOT__&quot;)/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;appContent&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;mainContainer&quot;]/div[@class=&quot;ADXRXN C48Khy KDGhSV Tjcf3c zEVE_X&quot;]/div[@class=&quot;ADXRXN c49R7p g0I6wi zDq_D0 PSnbKb&quot;]/div[@class=&quot;ADXRXN C48Khy _tKaHB eeaciM gbTsx5 xLeAAe zEVE_X&quot;]/div[@class=&quot;ADXRXN AywgSp C48Khy IUaGft PaBcSf ixXyxx c49R7p g0I6wi coNeet gSktR2 i1hWBD&quot;]/div[@class=&quot;H2DtUH KwViV7 FE_3R1 Tjcf3c kF2VEF qtP9fl&quot;]/div[@class=&quot;ADXRXN _tKaHB _xSIdT hVtwEZ zEVE_X&quot;]/div[@class=&quot;ADXRXN C6J6UC&quot;]/div[@class=&quot;H2DtUH KwViV7 FE_3R1 KDGhSV Tjcf3c qtP9fl&quot;]/div[@class=&quot;hqSJBQ&quot;]/div[@class=&quot;H2DtUH KwViV7 FE_3R1 Tjcf3c sSBu24&quot;]/a[@class=&quot;etmDmh i7jpet zlD4hU Q3hcOU gcIrSY O0u6sV hlFz_k be_g_n ap8aAM&quot;]/div[@class=&quot;H2DtUH KwViV7 FE_3R1 _tKaHB sSBu24&quot;]/div[@class=&quot;ADXRXN B3GZzn fz1RM7 gEQpi5 gcIrSY i1hWBD&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;H2DtUH opw_4g FE_3R1 Tjcf3c kF2VEF sSBu24&quot;]</value>
+      <webElementGuid>23840316-5548-40b6-99e7-92e6f03bdb49</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__PWS_ROOT__']/div/div/div[3]/div/div/div/div[2]/div/div[2]/div[2]/div/div/div/div/div/a[2]/div/div/div/div</value>
+      <webElementGuid>7979bf7b-d186-4d3f-a71d-3d809168b3a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activity'])[1]/following::div[6]</value>
+      <webElementGuid>2000c343-a9af-469c-b84f-04aa1d23e15b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='you'])[1]/following::div[18]</value>
+      <webElementGuid>aedd9393-bc8e-43fd-bf63-8067c5782d83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Boards'])[1]/preceding::div[3]</value>
+      <webElementGuid>f090cc96-db97-4cf7-8293-32ae07e3d127</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/div/div/div/div</value>
+      <webElementGuid>22fb3ba8-d2d3-472a-83a5-401d2fbced07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Interests' or . = 'Interests')]</value>
+      <webElementGuid>eb8827ed-447a-480a-89df-3dcf92aabf0d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

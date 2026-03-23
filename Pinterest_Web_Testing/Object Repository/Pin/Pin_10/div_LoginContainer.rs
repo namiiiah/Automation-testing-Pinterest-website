@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_LoginContainer</name>
+   <tag></tag>
+   <elementGuidId>671a3bf0-5ee5-4e92-bb0d-f177ac2b2c7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__PWS_ROOT__']/div/div[2]/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ADXRXN.Fm_EPH.NYgy1O.aHn_t7.bnBtRO.mJ2PyB.n62I2n > div > div.ADXRXN > div.ADXRXN</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Join !1 on Pinterest for more ideasContinue with emailBy continuing, you agree t&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>578582ab-847d-4fb6-a87c-8c464fd81ef6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ADXRXN</value>
+      <webElementGuid>2ee6f61f-5fd1-41c9-9324-15229e6ef3b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Join !1 on Pinterest for more ideasContinue with emailBy continuing, you agree to Pinterest's Terms of Service and acknowledge you've read our Privacy Policy. Notice at collection.Already a member?Log in</value>
+      <webElementGuid>31ba1949-49c3-4e67-bce1-aa54288c3c60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__PWS_ROOT__&quot;)/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[1]/div[@class=&quot;ADXRXN Fm_EPH NYgy1O aHn_t7 bnBtRO mJ2PyB n62I2n&quot;]/div[1]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]</value>
+      <webElementGuid>8de33de6-f750-4523-8691-6d18a1c2872b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__PWS_ROOT__']/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>7e7fcf31-2a77-4b14-a114-f457ba92ccbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cat Drawing Memes Funny'])[2]/following::div[8]</value>
+      <webElementGuid>d836731e-02f4-44f8-8278-34e83ded3087</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chinese Drawing Meme'])[2]/following::div[10]</value>
+      <webElementGuid>9d0a0729-6dc5-4ab8-92d9-f2d652dc9d1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div</value>
+      <webElementGuid>804f2bfa-f6a3-4d25-8345-6766af36da80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Join !1 on Pinterest for more ideasContinue with emailBy continuing, you agree to Pinterest&quot; , &quot;'&quot; , &quot;s Terms of Service and acknowledge you&quot; , &quot;'&quot; , &quot;ve read our Privacy Policy. Notice at collection.Already a member?Log in&quot;) or . = concat(&quot;Join !1 on Pinterest for more ideasContinue with emailBy continuing, you agree to Pinterest&quot; , &quot;'&quot; , &quot;s Terms of Service and acknowledge you&quot; , &quot;'&quot; , &quot;ve read our Privacy Policy. Notice at collection.Already a member?Log in&quot;))]</value>
+      <webElementGuid>a625b617-8e7e-40d0-ab12-78c4c813dc85</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

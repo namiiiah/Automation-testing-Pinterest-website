@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Bt_Zoom</name>
+   <tag></tag>
+   <elementGuidId>c73fd53c-0c02-4282-8227-268ecaf4222e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ADXRXN.BVzdUh.NYgy1O.TfR6nu._tKaHB._xSIdT.mJ2PyB.zEVE_X</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@data-test-id='zoom-in-media-viewer' and @aria-label='Zoom in']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(6) > div > div:nth-child(3)</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d90c4657-4533-4492-8df2-53547728181a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ADXRXN BVzdUh NYgy1O TfR6nu _tKaHB _xSIdT mJ2PyB zEVE_X</value>
+      <webElementGuid>9d0358bc-92fa-4e08-a1e7-9885eb945175</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__PWS_ROOT__&quot;)/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN aHn_t7 bnBtRO kF2VEF n62I2n sSBu24 zEVE_X&quot;]/div[@class=&quot;ADXRXN BVzdUh NYgy1O TfR6nu _tKaHB _xSIdT mJ2PyB zEVE_X&quot;]</value>
+      <webElementGuid>4595f675-c7f9-47b3-b991-61255317f02c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value></value>
+      <webElementGuid>f26902e3-7441-4af2-bd34-d81f6e827e32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value></value>
+      <webElementGuid>aa7ad205-2990-4aa1-b393-9449fe213b4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value></value>
+      <webElementGuid>cd3bcd00-62f6-4088-a8c1-475d075872af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value></value>
+      <webElementGuid>e2858b64-4882-4c51-b0a3-ddd47cc04b53</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

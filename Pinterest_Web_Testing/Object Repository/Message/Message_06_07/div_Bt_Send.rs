@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Bt_Send</name>
+   <tag></tag>
+   <elementGuidId>2da38fb1-dfe5-4050-b2c8-c859568a2223</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='full-height-inbox-panel']/div[3]/div/div/div/div[2]/div[2]/button/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.VHreRh.cLlqFI.eRZH0Z.bCyBlM</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-test-id=&quot;send-message-to-conversation&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>68fe77d9-0c59-488b-8010-6b3092bea942</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>VHreRh cLlqFI eRZH0Z bCyBlM</value>
+      <webElementGuid>24bf592a-553a-4973-8f16-941053279c7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;full-height-inbox-panel&quot;)/div[@class=&quot;ADXRXN NYgy1O TfR6nu&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN gEQpi5&quot;]/div[@class=&quot;ADXRXN BVzdUh KJ5NRA _xSIdT ecEhnF i4_mIm zEVE_X&quot;]/div[@class=&quot;ADXRXN CFzQgS Tjcf3c gcIrSY i4_mIm iQW80L u5MNBk zEVE_X&quot;]/div[@class=&quot;ADXRXN BGUL9_ ekBBbl iHQedX&quot;]/button[@class=&quot;euRXRl&quot;]/div[@class=&quot;dVx3J_ Q3hcOU mm_g7v&quot;]/div[@class=&quot;VHreRh cLlqFI eRZH0Z bCyBlM&quot;]</value>
+      <webElementGuid>5b48c76e-1a60-47ba-bb0f-110139136631</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='full-height-inbox-panel']/div[3]/div/div/div/div[2]/div[2]/button/div/div</value>
+      <webElementGuid>4ee3bcda-69d2-4166-86d6-800ea070b3f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='.'])[3]/following::div[20]</value>
+      <webElementGuid>0b3d7db3-7a7d-4d56-8fde-e59eaa80db66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N'])[3]/following::div[31]</value>
+      <webElementGuid>959c86b7-7d33-4819-a065-0d794891464b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/button/div/div</value>
+      <webElementGuid>3c84f13c-a8ee-4d48-a0cc-1888bfa4dc17</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

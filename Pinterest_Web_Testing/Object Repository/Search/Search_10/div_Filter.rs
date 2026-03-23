@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Filter</name>
+   <tag></tag>
+   <elementGuidId>0f072d89-3f38-4a6e-a298-889edaaafde8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.dBMCN4.jShAKf.iS__OQ.EpMAUU._W0I5h.SdmY6_.y4A0gb.ap8aAM.nlT4h6.O0u6sV</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__PWS_ROOT__']/div/div/div[3]/div/div/div[2]/div/div/div/div/div/div/div/div/div/div/div/button/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-test-id=&quot;one-bar-pill&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>004381f3-98d4-4f1b-853f-17fb1136e594</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dBMCN4 jShAKf iS__OQ EpMAUU _W0I5h SdmY6_ y4A0gb ap8aAM nlT4h6 O0u6sV</value>
+      <webElementGuid>6de2688a-a56e-4a8a-ad9d-cd3014fb1e51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__PWS_ROOT__&quot;)/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;appContent&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;mainContainer&quot;]/div[@class=&quot;KvKvqR&quot;]/div[1]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN Ip8hrQ ecEhnF gEQpi5&quot;]/div[@class=&quot;ADXRXN gEQpi5 gHrR3r&quot;]/div[@class=&quot;ADXRXN gEQpi5&quot;]/div[@class=&quot;H2DtUH c1Gamg FE_3R1 Tjcf3c sSBu24&quot;]/div[@class=&quot;oRZ5_s&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN gEQpi5&quot;]/button[@class=&quot;fsprMd _W0I5h O0u6sV&quot;]/div[@class=&quot;dBMCN4 jShAKf iS__OQ EpMAUU _W0I5h SdmY6_ y4A0gb ap8aAM nlT4h6 O0u6sV&quot;]</value>
+      <webElementGuid>0daa347e-147f-4fed-83f3-e19859019aa9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__PWS_ROOT__']/div/div/div[3]/div/div/div[2]/div/div/div/div/div/div/div/div/div/div/div/button/div</value>
+      <webElementGuid>17ad99d3-f42f-401c-9e56-f4610a0d5f0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Results Page'])[1]/following::div[13]</value>
+      <webElementGuid>e3d9d635-71a9-4970-a9a2-682a2179daa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Pins'])[1]/following::div[97]</value>
+      <webElementGuid>079b0e25-3dd1-43cd-ab03-c90ee874ab14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filters'])[1]/preceding::div[7]</value>
+      <webElementGuid>0d97f292-a735-4c76-87a3-428614e29152</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Single select filter options list'])[1]/preceding::div[8]</value>
+      <webElementGuid>2a7668de-dba5-47f7-805e-ddc381f14e54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div/div/div/div/div/button/div</value>
+      <webElementGuid>c9ba7e9f-6db0-477c-b408-be2fa480801c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

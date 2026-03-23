@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Recommendations_Content</name>
+   <tag></tag>
+   <elementGuidId>1a38fdda-30e4-461a-9f19-eb36c92664eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.V3gVHw.TfR6nu.v65fHc</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__PWS_ROOT__']/div/div/div[3]/div/div/div/div[2]/div/div[2]/div[2]/div/div[2]/div/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=list >> div >> internal:has-text=&quot;TodayTurn off allCheckbox for enabling or disabling recommendations for \&quot;Sugoi d&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>24735283-43b2-41f8-9696-6ef404875c07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>V3gVHw TfR6nu v65fHc</value>
+      <webElementGuid>5540d3e5-d738-45f2-8138-e90c9b3ff593</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-grid-item</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>60819d3e-298d-461f-89f1-fdb97595a710</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>listitem</value>
+      <webElementGuid>92e8d49e-0c13-4908-902d-27d3622ba52c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TodayTurn off allCheckbox for enabling or disabling recommendations for &quot;Sugoi desu Cat Meme&quot; Sticker for Sale by lunajoon</value>
+      <webElementGuid>86e8a35d-8fb1-4e9c-bc11-95b42e7e44f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__PWS_ROOT__&quot;)/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;appContent&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;mainContainer&quot;]/div[@class=&quot;ADXRXN C48Khy KDGhSV Tjcf3c zEVE_X&quot;]/div[@class=&quot;ADXRXN c49R7p g0I6wi zDq_D0 PSnbKb&quot;]/div[@class=&quot;ADXRXN C48Khy _tKaHB eeaciM gbTsx5 xLeAAe zEVE_X&quot;]/div[@class=&quot;ADXRXN AywgSp C48Khy IUaGft PaBcSf ixXyxx c49R7p g0I6wi coNeet gSktR2 i1hWBD&quot;]/div[@class=&quot;H2DtUH KwViV7 FE_3R1 Tjcf3c kF2VEF qtP9fl&quot;]/div[@class=&quot;ADXRXN _tKaHB _xSIdT hVtwEZ zEVE_X&quot;]/div[@class=&quot;ADXRXN DgJbZ_ wl0pCr&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[2]/div[@class=&quot;KnPdox gEQpi5&quot;]/div[@class=&quot;V3gVHw TfR6nu v65fHc&quot;]</value>
+      <webElementGuid>3201bf7f-e181-47bb-804e-8cf19606d72e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__PWS_ROOT__']/div/div/div[3]/div/div/div/div[2]/div/div[2]/div[2]/div/div[2]/div/div/div[2]/div/div</value>
+      <webElementGuid>ebf1e3fc-f684-4435-b280-eac0f1a44df8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hide ideas related to Pins you recently saved or tapped to view close-up.'])[1]/following::div[3]</value>
+      <webElementGuid>262663b7-32d6-48a9-823c-4dcf3930c8d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GenAI interests'])[1]/following::div[8]</value>
+      <webElementGuid>410695d3-6cff-4799-a8ba-ae5f0b025479</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[2]/div/div/div[2]/div/div</value>
+      <webElementGuid>8dd59a1f-4722-4e7e-aa19-a413d49f206f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'TodayTurn off allCheckbox for enabling or disabling recommendations for &quot;Sugoi desu Cat Meme&quot; Sticker for Sale by lunajoon' or . = 'TodayTurn off allCheckbox for enabling or disabling recommendations for &quot;Sugoi desu Cat Meme&quot; Sticker for Sale by lunajoon')]</value>
+      <webElementGuid>4a2a2f15-265e-46d6-b290-62b37f4e0a33</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

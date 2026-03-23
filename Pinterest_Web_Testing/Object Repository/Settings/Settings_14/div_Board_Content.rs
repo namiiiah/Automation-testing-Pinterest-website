@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Board_Content</name>
+   <tag></tag>
+   <elementGuidId>6078f849-dcd2-4f1c-9c88-d9d3f9ba7c04</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ADXRXN.DgJbZ_.wl0pCr > div.ADXRXN > div.ADXRXN</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__PWS_ROOT__']/div/div/div[3]/div/div/div/div[2]/div/div[2]/div[2]/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-test-id=&quot;boards_table&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ba16a195-47eb-4627-8b55-88857503a37d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test-id</name>
+      <type>Main</type>
+      <value>boards_table</value>
+      <webElementGuid>88d54cb5-8196-41c0-b1bf-34f334ac2550</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ADXRXN</value>
+      <webElementGuid>6c9da936-2839-4f54-ab90-f319164d4713</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Switch off a board to stop seeing ideas related to it. Don't worry, this won't affect your board.AvaMeow1163 Pins  • 0 Sections 4dSelect AvaMeow1test20 Pins  • 0 Sections 1wSelect test2test10 Pins  • 0 Sections 1wSelect test1test0 Pins  • 0 Sections 1wSelect testtest30 Pins  • 0 Sections 1wSelect test3Meow154 Pins  • 0 Sections 6dSelect Meow1Douyin ava21 Pins  • 0 Sections 1wSelect Douyin avaCortis281 Pins  • 0 Sections 1wSelect Cortisbackground41 Pins  • 0 Sections 1moSelect backgroundNeko choan~3 Pins  • 0 Sections 2moSelect Neko choan~discord22 Pins  • 0 Sections 3moSelect discordrepost1 Pin  • 0 Sections 8moSelect repostcover photos22 Pins  • 0 Sections 7moSelect cover photosmakeup10 Pins  • 0 Sections 1ySelect makeupoutfit9 Pins  • 0 Sections 1ySelect outfithairstyle1 Pin  • 0 Sections 2ySelect hairstyle</value>
+      <webElementGuid>9ff9e371-19c6-488b-90c5-0b3e10f42987</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__PWS_ROOT__&quot;)/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;appContent&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;mainContainer&quot;]/div[@class=&quot;ADXRXN C48Khy KDGhSV Tjcf3c zEVE_X&quot;]/div[@class=&quot;ADXRXN c49R7p g0I6wi zDq_D0 PSnbKb&quot;]/div[@class=&quot;ADXRXN C48Khy _tKaHB eeaciM gbTsx5 xLeAAe zEVE_X&quot;]/div[@class=&quot;ADXRXN AywgSp C48Khy IUaGft PaBcSf ixXyxx c49R7p g0I6wi coNeet gSktR2 i1hWBD&quot;]/div[@class=&quot;H2DtUH KwViV7 FE_3R1 Tjcf3c kF2VEF qtP9fl&quot;]/div[@class=&quot;ADXRXN _tKaHB _xSIdT hVtwEZ zEVE_X&quot;]/div[@class=&quot;ADXRXN DgJbZ_ wl0pCr&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]</value>
+      <webElementGuid>c256d8e2-ee86-4281-b755-4e321ee348f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__PWS_ROOT__']/div/div/div[3]/div/div/div/div[2]/div/div[2]/div[2]/div/div[2]/div/div</value>
+      <webElementGuid>75e3c736-f902-4e54-9135-0c80859d47b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GenAI interests'])[1]/following::div[3]</value>
+      <webElementGuid>590fc6a6-2a16-4022-8a13-f3848e80d1f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Following'])[1]/following::div[9]</value>
+      <webElementGuid>25a9b768-47a3-4dfe-ae52-eaf553be24f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[2]/div/div</value>
+      <webElementGuid>56a2f045-01e7-4661-bcf2-7d46185c0f7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Switch off a board to stop seeing ideas related to it. Don&quot; , &quot;'&quot; , &quot;t worry, this won&quot; , &quot;'&quot; , &quot;t affect your board.AvaMeow1163 Pins  • 0 Sections 4dSelect AvaMeow1test20 Pins  • 0 Sections 1wSelect test2test10 Pins  • 0 Sections 1wSelect test1test0 Pins  • 0 Sections 1wSelect testtest30 Pins  • 0 Sections 1wSelect test3Meow154 Pins  • 0 Sections 6dSelect Meow1Douyin ava21 Pins  • 0 Sections 1wSelect Douyin avaCortis281 Pins  • 0 Sections 1wSelect Cortisbackground41 Pins  • 0 Sections 1moSelect backgroundNeko choan~3 Pins  • 0 Sections 2moSelect Neko choan~discord22 Pins  • 0 Sections 3moSelect discordrepost1 Pin  • 0 Sections 8moSelect repostcover photos22 Pins  • 0 Sections 7moSelect cover photosmakeup10 Pins  • 0 Sections 1ySelect makeupoutfit9 Pins  • 0 Sections 1ySelect outfithairstyle1 Pin  • 0 Sections 2ySelect hairstyle&quot;) or . = concat(&quot;Switch off a board to stop seeing ideas related to it. Don&quot; , &quot;'&quot; , &quot;t worry, this won&quot; , &quot;'&quot; , &quot;t affect your board.AvaMeow1163 Pins  • 0 Sections 4dSelect AvaMeow1test20 Pins  • 0 Sections 1wSelect test2test10 Pins  • 0 Sections 1wSelect test1test0 Pins  • 0 Sections 1wSelect testtest30 Pins  • 0 Sections 1wSelect test3Meow154 Pins  • 0 Sections 6dSelect Meow1Douyin ava21 Pins  • 0 Sections 1wSelect Douyin avaCortis281 Pins  • 0 Sections 1wSelect Cortisbackground41 Pins  • 0 Sections 1moSelect backgroundNeko choan~3 Pins  • 0 Sections 2moSelect Neko choan~discord22 Pins  • 0 Sections 3moSelect discordrepost1 Pin  • 0 Sections 8moSelect repostcover photos22 Pins  • 0 Sections 7moSelect cover photosmakeup10 Pins  • 0 Sections 1ySelect makeupoutfit9 Pins  • 0 Sections 1ySelect outfithairstyle1 Pin  • 0 Sections 2ySelect hairstyle&quot;))]</value>
+      <webElementGuid>372d8e12-c265-4983-99e9-c10c90623142</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

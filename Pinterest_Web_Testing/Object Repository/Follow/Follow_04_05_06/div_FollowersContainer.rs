@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_FollowersContainer</name>
+   <tag></tag>
+   <elementGuidId>d515dddd-d43c-4ac4-aace-16b8d9ed2a80</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ADXRXN.i1hWBD > div.H2DtUH.KwViV7.FE_3R1.Tjcf3c.kF2VEF</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@data-test-id='profile-followers-feed']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.YLPkP_ > div > div:nth-child(2) > div > div > div > div</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c0af6eb7-be57-479e-9139-a6889cdd0119</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>H2DtUH KwViV7 FE_3R1 Tjcf3c kF2VEF</value>
+      <webElementGuid>2b02f8a4-6103-4a14-9064-86d5848ef663</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NamiiiahNNamiiiahFollowAnita MieFollowing</value>
+      <webElementGuid>e2b6f773-6536-4588-9fe4-9c01694b4316</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;en&quot;]/body[1]/div[@class=&quot;unzjra&quot;]/div[1]/div[1]/div[@class=&quot;asf_Xx&quot;]/div[@class=&quot;YLPkP_ j3H91d c0G7To&quot;]/div[@class=&quot;ADXRXN _tKaHB gEQpi5 wl0pCr zEVE_X&quot;]/div[@class=&quot;ADXRXN MJ_eMy drGcEU gHrR3r wl0pCr&quot;]/div[@class=&quot;ADXRXN drGcEU&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN i1hWBD&quot;]/div[@class=&quot;H2DtUH KwViV7 FE_3R1 Tjcf3c kF2VEF&quot;]</value>
+      <webElementGuid>a67708a8-d6e6-4037-8571-c7458f1d5a1e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value></value>
+      <webElementGuid>49090af9-6723-44cc-9b31-45e653d4a4a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value></value>
+      <webElementGuid>21314806-b8a4-47e6-ac68-152dcb0a19b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value></value>
+      <webElementGuid>ad245d17-fd5b-4aa3-99bf-6c5571618b9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value></value>
+      <webElementGuid>d237fe94-ea83-4eaa-8ea4-ec20a2f2a1db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

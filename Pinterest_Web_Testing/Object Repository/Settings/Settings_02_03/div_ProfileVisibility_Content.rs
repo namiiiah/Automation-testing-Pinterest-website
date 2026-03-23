@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ProfileVisibility_Content</name>
+   <tag></tag>
+   <elementGuidId>d2e7487a-b396-404c-a261-4c531f8c09f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ADXRXN.AywgSp.C48Khy.IUaGft.PaBcSf.ixXyxx.c49R7p.g0I6wi.coNeet.gSktR2.i1hWBD</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__PWS_ROOT__']/div/div/div[3]/div/div/div/div[2]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-test-id=&quot;accountSettingsContainer&quot;] div >> internal:has-text=&quot;Profile visibilityManage how your profile can be viewed on and off of Pinterest.&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>068f91ab-9c64-4c2c-985b-a8f1e2748e23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ADXRXN AywgSp C48Khy IUaGft PaBcSf ixXyxx c49R7p g0I6wi coNeet gSktR2 i1hWBD</value>
+      <webElementGuid>00fe2503-daf7-451e-992a-d1dee935e0ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Profile visibilityManage how your profile can be viewed on and off of Pinterest.Private profileWhen your profile is private only the people you approve can see your profile, Pins, boards, followers and following lists. Learn moreSearch privacyHide your profile and boards from search engines (ex. Google). Learn moreResetSave</value>
+      <webElementGuid>f6be6246-9d5b-4de0-919a-25dcd193b425</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__PWS_ROOT__&quot;)/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;appContent&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;mainContainer&quot;]/div[@class=&quot;ADXRXN C48Khy KDGhSV Tjcf3c zEVE_X&quot;]/div[@class=&quot;ADXRXN c49R7p g0I6wi zDq_D0 PSnbKb&quot;]/div[@class=&quot;ADXRXN C48Khy _tKaHB eeaciM gbTsx5 xLeAAe zEVE_X&quot;]/div[@class=&quot;ADXRXN AywgSp C48Khy IUaGft PaBcSf ixXyxx c49R7p g0I6wi coNeet gSktR2 i1hWBD&quot;]</value>
+      <webElementGuid>ac953710-6cbf-45cf-a36e-6d0e10383ca5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__PWS_ROOT__']/div/div/div[3]/div/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>f6131453-865c-4045-b1c8-5a014ca1cebf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Branded Content'])[1]/following::div[1]</value>
+      <webElementGuid>eed53bc9-eef2-4762-bb22-ea04c0d918d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Security'])[1]/following::div[5]</value>
+      <webElementGuid>a372e6de-c856-4f4b-b7b0-6d0c59d2b051</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>95ff450d-d290-4568-a203-ce6fe14819b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Profile visibilityManage how your profile can be viewed on and off of Pinterest.Private profileWhen your profile is private only the people you approve can see your profile, Pins, boards, followers and following lists. Learn moreSearch privacyHide your profile and boards from search engines (ex. Google). Learn moreResetSave' or . = 'Profile visibilityManage how your profile can be viewed on and off of Pinterest.Private profileWhen your profile is private only the people you approve can see your profile, Pins, boards, followers and following lists. Learn moreSearch privacyHide your profile and boards from search engines (ex. Google). Learn moreResetSave')]</value>
+      <webElementGuid>f6fe45ba-cef6-4161-b626-b1818e6d0fef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

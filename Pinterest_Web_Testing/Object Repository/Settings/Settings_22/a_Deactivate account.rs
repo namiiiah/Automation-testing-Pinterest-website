@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Deactivate account</name>
+   <tag></tag>
+   <elementGuidId>58f0ad39-c7a5-4b77-bf49-6df408e7de4a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ADXRXN.Tjcf3c.k5oQr4.sSBu24.zEVE_X > div.ADXRXN.C6J6UC > a.etmDmh.i7jpet.zlD4hU.Q3hcOU.O0u6sV.RLsYhV.G0yGFD.ap8aAM.j0pMjI.hG7AI5.itmoZr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__PWS_ROOT__']/div/div/div[3]/div/div/div/div[2]/div/div[2]/div[2]/div[6]/div/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Deactivate account&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f3e0cd9b-2a2a-4ab2-8530-609d396c8ef0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>etmDmh i7jpet zlD4hU Q3hcOU O0u6sV RLsYhV G0yGFD ap8aAM j0pMjI hG7AI5 itmoZr</value>
+      <webElementGuid>2d037738-5a29-43be-90a9-feb25b7c0904</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/deactivate-account</value>
+      <webElementGuid>0dca6608-4577-4ba2-82c6-25d79960c292</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>77567ddf-5d7b-4931-af49-0715c2b4cece</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Deactivate account</value>
+      <webElementGuid>63a79e37-ee5f-4678-b8ad-6614f753f4a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__PWS_ROOT__&quot;)/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;appContent&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;mainContainer&quot;]/div[@class=&quot;ADXRXN C48Khy KDGhSV Tjcf3c zEVE_X&quot;]/div[@class=&quot;ADXRXN c49R7p g0I6wi zDq_D0 PSnbKb&quot;]/div[@class=&quot;ADXRXN C48Khy _tKaHB eeaciM gbTsx5 xLeAAe zEVE_X&quot;]/div[@class=&quot;ADXRXN AywgSp C48Khy IUaGft PaBcSf ixXyxx c49R7p g0I6wi coNeet gSktR2 i1hWBD&quot;]/div[@class=&quot;ADXRXN Emc7hI _tKaHB zEVE_X&quot;]/div[@class=&quot;ADXRXN EH8C6E&quot;]/div[@class=&quot;ADXRXN Tjcf3c k5oQr4 sSBu24 zEVE_X&quot;]/div[@class=&quot;ADXRXN C6J6UC&quot;]/a[@class=&quot;etmDmh i7jpet zlD4hU Q3hcOU O0u6sV RLsYhV G0yGFD ap8aAM j0pMjI hG7AI5 itmoZr&quot;]</value>
+      <webElementGuid>fdfe7dc9-d83b-4783-83b3-afff1c255c7c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__PWS_ROOT__']/div/div/div[3]/div/div/div/div[2]/div/div[2]/div[2]/div[6]/div/div[2]/a</value>
+      <webElementGuid>466ba25d-97c0-4204-bc42-b086d8a066ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Temporarily hide your profile, Pins and boards'])[1]/following::a[1]</value>
+      <webElementGuid>824737d6-e2bf-4e5c-8c5a-dee0ac4ee0a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deactivate account'])[1]/following::a[1]</value>
+      <webElementGuid>e15e7360-5fcd-4c64-a592-acd55aecb961</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete your data and account'])[1]/preceding::a[1]</value>
+      <webElementGuid>b313107a-ae42-4245-8745-1d76a27b49c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/deactivate-account')]</value>
+      <webElementGuid>2bc3a940-9ee8-4b08-aecd-1df8fa398b0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div[2]/a</value>
+      <webElementGuid>ed4ae0c4-3ffe-45fb-a6c1-443dd3c4d0ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/deactivate-account' and (text() = 'Deactivate account' or . = 'Deactivate account')]</value>
+      <webElementGuid>08d45c0a-12d6-452c-90ea-7e91d8504b23</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

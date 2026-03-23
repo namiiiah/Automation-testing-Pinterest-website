@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Profile</name>
+   <tag></tag>
+   <elementGuidId>2ded9a2e-f3ea-4654-8a3b-56151124909d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='HeaderContent']/div/div/div[2]/div/div/div/div[2]/div/div/div/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ADXRXN.gcIrSY</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Your profile&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>403004d1-b75d-43e5-aaee-43a8bf31b405</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>8e14ffb2-f43f-4a40-804b-ad68dea06dc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ADXRXN gcIrSY</value>
+      <webElementGuid>deb6b969-227a-494b-987e-39f7c9be7c39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;HeaderContent&quot;)/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN c49R7p g0I6wi ecEhnF&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;H2DtUH KwViV7 FE_3R1 KDGhSV _tKaHB&quot;]/div[@class=&quot;ADXRXN BVzdUh c49R7p g0I6wi sSBu24 wl0pCr zEVE_X&quot;]/div[@class=&quot;ADXRXN c49R7p g0I6wi sSBu24 zEVE_X&quot;]/div[@class=&quot;oRZ5_s&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN DTsIgD&quot;]/div[@class=&quot;ADXRXN&quot;]/a[@class=&quot;etmDmh i7jpet zlD4hU Q3hcOU gcIrSY O0u6sV KQwCbH itw4K9 g0I6wi be_g_n ap8aAM&quot;]/div[@class=&quot;ADXRXN gcIrSY&quot;]</value>
+      <webElementGuid>bfde9fee-2c31-41d5-a207-9c6b7e47aab1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='HeaderContent']/div/div/div[2]/div/div/div/div[2]/div/div/div/a/div</value>
+      <webElementGuid>ea25a655-cbba-4059-a29f-4fd6d09ebbd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to content'])[1]/following::div[19]</value>
+      <webElementGuid>f12f88e8-055c-4a78-8836-b1283c2cffc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::div[75]</value>
+      <webElementGuid>8fbd0895-0528-407d-a342-3d7e895d5d99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[1]/preceding::div[76]</value>
+      <webElementGuid>32528024-03aa-4e25-b58f-e2e59092cc8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/a/div</value>
+      <webElementGuid>b676ab47-fbc8-4875-9787-9de6c88d30a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

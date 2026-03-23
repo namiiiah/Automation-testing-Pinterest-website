@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_LoginContainer</name>
+   <tag></tag>
+   <elementGuidId>deb90640-411f-4580-b0df-126cec08dcdc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ADXRXN.Fm_EPH.NYgy1O.aHn_t7.bnBtRO.mJ2PyB.n62I2n > div > div.ADXRXN > div.ADXRXN</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__PWS_ROOT__']/div/div[3]/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Pinterest logoUnlimited free access to the world's best ideasSign up to see more&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>035fd704-2f2e-4c43-96fb-4e50b37f9a14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ADXRXN</value>
+      <webElementGuid>a1656eb3-c44a-46af-b070-55748b71cf93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pinterest logoUnlimited free access to the world's best ideasSign up to see moreContinue with emailBy continuing, you agree to Pinterest's Terms of Service and acknowledge you've read our Privacy Policy. Notice at collection.Already a member?Log in</value>
+      <webElementGuid>0bcc1b9f-5a60-417b-999c-5d4e97d21444</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__PWS_ROOT__&quot;)/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[1]/div[@class=&quot;ADXRXN Fm_EPH NYgy1O aHn_t7 bnBtRO mJ2PyB n62I2n&quot;]/div[1]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]</value>
+      <webElementGuid>f3b8bcf5-6c54-4e0a-ac26-e507f7d0a969</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__PWS_ROOT__']/div/div[3]/div/div/div/div/div</value>
+      <webElementGuid>25060b84-2350-4097-b25c-d399f11b8e46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notice at collection'])[1]/following::div[6]</value>
+      <webElementGuid>8f79e68c-00ba-4831-bedd-20cf5118d38c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[1]/following::div[6]</value>
+      <webElementGuid>b969b7de-4550-4cb5-8518-17aca5fb3e88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div</value>
+      <webElementGuid>81a71e61-3142-4e5e-80cb-01aac6d5aa46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Pinterest logoUnlimited free access to the world&quot; , &quot;'&quot; , &quot;s best ideasSign up to see moreContinue with emailBy continuing, you agree to Pinterest&quot; , &quot;'&quot; , &quot;s Terms of Service and acknowledge you&quot; , &quot;'&quot; , &quot;ve read our Privacy Policy. Notice at collection.Already a member?Log in&quot;) or . = concat(&quot;Pinterest logoUnlimited free access to the world&quot; , &quot;'&quot; , &quot;s best ideasSign up to see moreContinue with emailBy continuing, you agree to Pinterest&quot; , &quot;'&quot; , &quot;s Terms of Service and acknowledge you&quot; , &quot;'&quot; , &quot;ve read our Privacy Policy. Notice at collection.Already a member?Log in&quot;))]</value>
+      <webElementGuid>1095f3e5-17a8-46ed-bfa7-b944550de4a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

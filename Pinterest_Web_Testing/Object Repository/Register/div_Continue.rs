@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Continue</name>
+   <tag></tag>
+   <elementGuidId>ccb9c1c7-54e5-42d5-97a2-1ac0bc6f7407</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.lIkAnG.eMU5i5.o5UlW_.h3gMqR.cZLkj_</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__PWS_ROOT__']/div/div[2]/div/div/div/div/div/div[5]/div/div/form/div[9]/button/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Continue creating your Pinterest account&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ca4cd9d7-59a4-4cdd-8cfb-bf17988d46e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lIkAnG eMU5i5 o5UlW_ h3gMqR cZLkj_</value>
+      <webElementGuid>3549f184-f0be-4476-8591-5e367e6b6ec5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue</value>
+      <webElementGuid>98524305-e377-44e0-a89a-7c49e5df7069</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__PWS_ROOT__&quot;)/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[1]/div[@class=&quot;ADXRXN Fm_EPH NYgy1O aHn_t7 bnBtRO mJ2PyB n62I2n&quot;]/div[1]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN gEQpi5&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/form[1]/div[@class=&quot;ADXRXN eOQXgz&quot;]/button[@class=&quot;G0yGFD ap8aAM Q3hcOU gwpqhu E6J5D_ CNPSpi O0u6sV&quot;]/div[@class=&quot;oxThCB&quot;]/div[@class=&quot;lIkAnG eMU5i5 o5UlW_ h3gMqR cZLkj_&quot;]</value>
+      <webElementGuid>6328ca78-f5ee-4fab-a822-877d20b9a4aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__PWS_ROOT__']/div/div[2]/div/div/div/div/div/div[5]/div/div/form/div[9]/button/div/div</value>
+      <webElementGuid>5c5c75d4-c69a-475d-b212-0821e359f04c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Birthdate'])[1]/following::div[9]</value>
+      <webElementGuid>07df079c-1961-43cc-86ce-5ec80c2c4f84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password tips'])[1]/following::div[14]</value>
+      <webElementGuid>6486d8e2-a16d-4918-b7a5-0909068451af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms of Service'])[1]/preceding::div[8]</value>
+      <webElementGuid>df8250b1-9505-4635-b9c6-d92bfb325f06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Continue']/parent::*</value>
+      <webElementGuid>6865ee66-0b70-405b-ad9c-cb9aeba2b925</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/button/div/div</value>
+      <webElementGuid>1c523da3-54e9-44fa-9754-a3b4e5dc5fbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Continue' or . = 'Continue')]</value>
+      <webElementGuid>9be5be4b-0825-4df4-bc06-ab606c202476</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

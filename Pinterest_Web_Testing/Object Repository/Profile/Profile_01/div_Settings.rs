@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Settings</name>
+   <tag></tag>
+   <elementGuidId>ce955020-012c-42d1-9c9c-175c82ecbf60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.H2DtUH.KwViV7.H__hJz._tKaHB.wl0pCr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='VerticalNav-Settings-Flyout-item-0']/div/a/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Settings&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>34d0f16d-a5a7-4bf5-87d3-3fbe653426eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>H2DtUH KwViV7 H__hJz _tKaHB wl0pCr</value>
+      <webElementGuid>e19e2ab4-11b8-41de-8a54-0df43acd3cdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Settings</value>
+      <webElementGuid>f7a2d150-9929-4f79-a512-16264a1ee630</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;VerticalNav-Settings-Flyout-item-0&quot;)/div[@class=&quot;ADXRXN B3GZzn _tKaHB dHA5K0 i1hWBD qzrGlv zEVE_X&quot;]/a[@class=&quot;etmDmh i7jpet zlD4hU Q3hcOU DodKMr O0u6sV KQwCbH itw4K9 g0I6wi be_g_n ap8aAM&quot;]/div[@class=&quot;H2DtUH KwViV7 FE_3R1 Tjcf3c&quot;]/div[@class=&quot;H2DtUH KwViV7 H__hJz _tKaHB wl0pCr&quot;]</value>
+      <webElementGuid>b7da9023-194a-4d51-9657-fd1b2498680d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='VerticalNav-Settings-Flyout-item-0']/div/a/div/div</value>
+      <webElementGuid>e6959181-af3a-4e2f-bce1-1230f72975a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings &amp; Support'])[1]/following::div[3]</value>
+      <webElementGuid>dfdd43cf-1b95-4b19-ad20-5271c5ca01ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='james'])[1]/following::div[34]</value>
+      <webElementGuid>754bb5bf-1a70-4678-892b-4f2358157493</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refine your recommendations'])[1]/preceding::div[5]</value>
+      <webElementGuid>7d130fbd-5687-4017-806c-2198dffa6dfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/a/div/div</value>
+      <webElementGuid>a3b7e507-afdb-4283-aaae-c869362af9db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Settings' or . = 'Settings')]</value>
+      <webElementGuid>2a817645-c2fa-416f-8c3f-8e896c9cb2b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Deactivate_Confirm</name>
+   <tag></tag>
+   <elementGuidId>53b527c1-49ac-43a8-b1b6-7f78db23e0b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ADXRXN.MEP_vB.RZKOJ9.aNs6gM.bx1iJI.gHrR3r</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__PWS_ROOT__']/div/div/div[3]/div/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-test-id=&quot;linked-business-account-create-page&quot;] div >> internal:has-text=&quot;Deactivate your accountDeactivating your account means no one will see your Pins&quot;i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7098dcf2-11c6-466f-992f-e8b3f8187838</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ADXRXN MEP_vB RZKOJ9 aNs6gM bx1iJI gHrR3r</value>
+      <webElementGuid>e674f2e4-9c9c-462f-9e73-c32bc6d87992</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Deactivate your accountDeactivating your account means no one will see your Pins or your profile and You won't be linked to YouTube, Etsy, or Instagram anymore!1 2You can reactivate your account anytime. If you want to use Pinterest again, just log in with:nhitam0905@gmail.comContinue</value>
+      <webElementGuid>c3bb9ff8-55bd-40b0-987d-616b1bc6ed99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__PWS_ROOT__&quot;)/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;appContent&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;mainContainer&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN&quot;]/div[@class=&quot;ADXRXN MEP_vB RZKOJ9 aNs6gM bx1iJI gHrR3r&quot;]</value>
+      <webElementGuid>6ec88a29-a9aa-45d3-9ca7-4735769902bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__PWS_ROOT__']/div/div/div[3]/div/div/div/div/div[2]</value>
+      <webElementGuid>e6d97151-fa7b-4b2d-87cf-14b8192beb44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to content'])[1]/following::div[104]</value>
+      <webElementGuid>66aa838e-cd54-484e-a06f-d028d2c6c8c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div[2]</value>
+      <webElementGuid>30d58244-8ab6-44a5-86fd-ca900d0f865c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Deactivate your accountDeactivating your account means no one will see your Pins or your profile and You won&quot; , &quot;'&quot; , &quot;t be linked to YouTube, Etsy, or Instagram anymore!1 2You can reactivate your account anytime. If you want to use Pinterest again, just log in with:nhitam0905@gmail.comContinue&quot;) or . = concat(&quot;Deactivate your accountDeactivating your account means no one will see your Pins or your profile and You won&quot; , &quot;'&quot; , &quot;t be linked to YouTube, Etsy, or Instagram anymore!1 2You can reactivate your account anytime. If you want to use Pinterest again, just log in with:nhitam0905@gmail.comContinue&quot;))]</value>
+      <webElementGuid>5e3df4ec-0490-446c-9a08-a0f6ab02ea93</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
