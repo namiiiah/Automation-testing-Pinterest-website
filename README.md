@@ -38,7 +38,7 @@ Automated Testing Project – Pinterest Web Application
 - Demonstrated hands-on experience in test automation
 
 ## 🔗 Files in Repository
-README.md – Project overview
-Test case.xlsx – Test scenarios and steps
-Pinterest_Web_Testing/ – Automated test scripts
-Test_Report/ – Execution results
+- README.md – Project overview
+- Test case.xlsx – Test scenarios and steps
+- Pinterest_Web_Testing/ – Automated test scripts
+- Test_Report/ – Execution results
