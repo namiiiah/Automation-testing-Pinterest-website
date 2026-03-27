@@ -33,9 +33,9 @@ Automated Testing Project – Pinterest Web Application
 - Improved test coverage and execution efficiency
 
 ## 🚀 Outcome
-- Ensured core functionalities work as expected
-- Reduced manual testing effort through automation
-- Demonstrated hands-on experience in test automation
+- Automated and executed 111 test cases for key Pinterest functionalities
+- Achieving 98.2% pass rate and identifying 2 defects
+- Ensuring stable user experience across main workflows
 
 ## 🔗 Files in Repository
 - README.md – Project overview
